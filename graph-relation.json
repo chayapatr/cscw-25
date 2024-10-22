@@ -1,5 +1,5 @@
 {
-  "directed": false,
+  "directed": true,
   "multigraph": false,
   "graph": {},
   "nodes": [
@@ -28,6 +28,9 @@
       "name": "Theory of Mind in Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Theory of Mind', 'Social Intelligence', 'Human-AI Interaction', 'AI Development', 'Mutual Theory of Mind']",
+      "year": 2024,
       "id": "10.1145/3613905.3636308"
     },
     {
@@ -55,6 +58,9 @@
       "name": "Assessing Human-AI Interaction Early through Factorial Surveys: A Study on the Guidelines for Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['User Experience', 'Human-AI Interaction', 'Guideline Evaluation']",
+      "year": 2022,
       "id": "10.1145/3511605"
     },
     {
@@ -82,6 +88,9 @@
       "name": "Spiritual AI: Exploring the Possibilities of a Human-AI Interaction Beyond Productive Goals",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Social Justice",
+      "keywords": "['Prayer', 'User Goals', 'User Experience', 'Reflection', 'Community Building']",
+      "year": 2024,
       "id": "10.1145/3613905.3650743"
     },
     {
@@ -102,6 +111,9 @@
       "name": "Development and translation of human-AI interaction models into working prototypes for clinical decision-making",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Health",
+      "keywords": "['Clinical', 'Decision Support', 'Patient-centered care', 'Human-AI interaction']",
+      "year": 2024,
       "id": "10.1145/3643834.3660697"
     },
     {
@@ -129,6 +141,9 @@
       "name": "Exploration of Explainable AI for Trust Development on Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Trust', 'Explainable AI', 'Human-AI interaction', 'Cognitive information', 'Affective processing']",
+      "year": 2023,
       "id": "10.1145/3639592.3639625"
     },
     {
@@ -156,6 +171,9 @@
       "name": "Re-examining User Burden in Human-AI Interaction: Focusing on a Domain-Specific Approach",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Social Justice",
+      "keywords": "['User burden', 'Application management', 'Conversational agent', 'Workplace evaluations', 'Sexual assault reporting']",
+      "year": 2024,
       "id": "10.1145/3613905.3638186"
     },
     {
@@ -190,6 +208,9 @@
       "name": "A Systematic Review on Fostering Appropriate Trust in Human-AI Interaction: Trends, Opportunities and Challenges",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['Trust', 'Human-AI interaction', 'Measurement', 'Challenges']",
+      "year": 2024,
       "id": "10.1145/3696449"
     },
     {
@@ -238,6 +259,9 @@
       "name": "Measuring User Experience Inclusivity in Human-AI Interaction via Five User Problem-Solving Styles",
       "kind": "paper",
       "summaries": 6,
+      "theme": "Work",
+      "keywords": "['Inclusivity', 'Problem-solving diversity', 'User Experience', 'Demographic diversity']",
+      "year": 2021,
       "id": "10.1145/3663740"
     },
     {
@@ -265,6 +289,9 @@
       "name": "Human-AI interaction: intermittent, continuous, and proactive",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Human-AI interaction', 'AI-driven systems', 'Interaction paradigms']",
+      "year": 2021,
       "id": "10.1145/3486941"
     },
     {
@@ -292,6 +319,9 @@
       "name": "Designing for Human-AI Interaction: Comparing Intermittent, Continuous, and Proactive Interactions for a Music Application",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['User experience', 'Prototyping', 'Music application', 'User control', 'Interaction paradigms']",
+      "year": 2024,
       "id": "10.1145/3613905.3650886"
     },
     {
@@ -319,6 +349,9 @@
       "name": "\"Help Me Help the AI\": Understanding How Explainability Can Support Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Explainable AI', 'User Needs', 'Trust Calibration', 'Task Improvement', 'Feedback Mechanism']",
+      "year": 2022,
       "id": "10.1145/3544548.3581001"
     },
     {
@@ -339,6 +372,9 @@
       "name": "Evaluating Interactive AI: Understanding and Controlling Placebo Effects in Human-AI Interaction",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Learning",
+      "keywords": "['Placebo effect', 'User studies', 'Research methodology', 'Evaluation', 'Artificial intelligence']",
+      "year": 2024,
       "id": "10.1145/3613905.3636304"
     },
     {
@@ -366,6 +402,9 @@
       "name": "AI in Your Mind: Counterbalancing Perceived Agency and Experience in Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Cognition', 'User Perception', 'Design Solutions', 'Human-AI Interaction', 'Mind Mapping']",
+      "year": 2022,
       "id": "10.1145/3491101.3519833"
     },
     {
@@ -393,6 +432,9 @@
       "name": "Guidelines for Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['User Interface Design', 'Design Guidelines', 'AI Technologies', 'Product Testing', 'Human-AI Interaction']",
+      "year": 2019,
       "id": "10.1145/3290605.3300233"
     },
     {
@@ -413,6 +455,9 @@
       "name": "AI as a Child of Mother Earth: Regrounding Human-AI Interaction in Ecological Thinking",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Social Justice",
+      "keywords": "['Sustainability', 'Ecology', 'Interconnectedness', 'Design Principles']",
+      "year": 2024,
       "id": "10.1145/3613905.3644065"
     },
     {
@@ -433,6 +478,9 @@
       "name": "Playing with Dezgo: Adapting Human-AI Interaction to the Context of Play",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Game design', 'User interaction', 'Mental models', 'Social interaction']",
+      "year": 2023,
       "id": "10.1145/3582437.3587198"
     },
     {
@@ -460,6 +508,9 @@
       "name": "Interfaces for Explanations in Human-AI Interaction: Proposing a Design Evaluation Approach",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Decision making', 'Interface design', 'Estimation tasks']",
+      "year": 2021,
       "id": "10.1145/3411763.3451759"
     },
     {
@@ -501,6 +552,9 @@
       "name": "Trust in Human-AI Interaction: Scoping Out Models, Measures, and Methods",
       "kind": "paper",
       "summaries": 5,
+      "theme": "Work",
+      "keywords": "['Trust', 'Human-AI Interaction', 'Trust Models', 'Measurement']",
+      "year": 2022,
       "id": "10.1145/3491101.3519772"
     },
     {
@@ -528,6 +582,9 @@
       "name": "Societal-Scale Human-AI Interaction Design? How Hospitals and Companies are Integrating Pervasive Sensing into Mental Healthcare",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Health",
+      "keywords": "['Healthcare', 'Mental Health', 'Design', 'Technology', 'Data Economy']",
+      "year": 2024,
       "id": "10.1145/3613904.3642793"
     },
     {
@@ -555,6 +612,9 @@
       "name": "AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Large Language Models', 'Task outcomes', 'Modularity', 'User interaction']",
+      "year": 2021,
       "id": "10.1145/3491102.3517582"
     },
     {
@@ -575,6 +635,9 @@
       "name": "Benefits of Human-AI Interaction for Expert Users Interacting with Prediction Models: a Study on Marathon Running",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Sports', 'Coaching', 'Model accuracy', 'Trust in predictions']",
+      "year": 2024,
       "id": "10.1145/3640543.3645205"
     },
     {
@@ -602,6 +665,9 @@
       "name": "Effects of Communication Directionality and AI Agent Differences in Human-AI Interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Social perception', 'Cooperative games', 'Gameplay outcomes', 'Communication direction', 'AI bias']",
+      "year": 2021,
       "id": "10.1145/3411764.3445256"
     },
     {
@@ -629,6 +695,9 @@
       "name": "UX Research on Conversational Human-AI Interaction: A Literature Review of the ACM Digital Library",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Social Justice",
+      "keywords": "['Communication', 'Engagement', 'Privacy', 'Trust', 'Social Interaction']",
+      "year": 2022,
       "id": "10.1145/3491102.3501855"
     },
     {
@@ -649,6 +718,9 @@
       "name": "Human-AI interaction and ethics of AI: how well are we following the guidelines",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Technology Acceptance', 'Ethics in AI', 'Human-AI Interaction', 'Guideline Compliance']",
+      "year": 2022,
       "id": "10.1145/3565698.3565773"
     },
     {
@@ -676,6 +748,9 @@
       "name": "Forward Reasoning Decision Support: Toward a More Complete View of the Human-AI Interaction Design Space",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Decision Support Systems', 'Output Uncertainty', 'Interactive Design', 'Forward Reasoning', 'High-Stakes Applications']",
+      "year": 2021,
       "id": "10.1145/3464385.3464696"
     },
     {
@@ -696,6 +771,9 @@
       "name": "Understanding User Perceptions, Collaborative Experience and User Engagement in Different Human-AI Interaction Designs for Co-Creative Systems",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Co-creativity', 'User engagement', 'Collaborative experience', 'Reliability', 'Intelligence']",
+      "year": 2022,
       "id": "10.1145/3527927.3532789"
     },
     {
@@ -723,6 +801,9 @@
       "name": "Towards Mutual Theory of Mind in Human-AI Interaction: How Language Reflects What Students Perceive About a Virtual Teaching Assistant",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Learning",
+      "keywords": "['Community perception', 'Conversational agents', 'Anthropomorphism', 'Student engagement']",
+      "year": 2021,
       "id": "10.1145/3411764.3445645"
     },
     {
@@ -750,6 +831,9 @@
       "name": "Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['AI challenges', 'User experience', 'Design implications', 'Interaction design', 'System complexity']",
+      "year": 2020,
       "id": "10.1145/3313831.3376301"
     },
     {
@@ -777,6 +861,9 @@
       "name": "The Human in the Infinite Loop: A Case Study on Revealing and Explaining Human-AI Interaction Loop Failures",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Human-AI interaction', 'User feedback', '3D modeling', 'Heuristic biases']",
+      "year": 2022,
       "id": "10.1145/3543758.3543761"
     },
     {
@@ -804,6 +891,9 @@
       "name": "Towards fluid software architectures: bidirectional human-AI interaction",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Software Architecture', 'AI-powered Applications', 'Client-Server Interaction', 'Dynamic Interfaces']",
+      "year": 2021,
       "id": "10.1109/ASE51524.2021.9678647"
     },
     {
@@ -824,6 +914,9 @@
       "name": "How Should AI Systems Talk to Users when Collecting their Personal Information? Effects of Role Framing and Self-Referencing on Human-AI Interaction",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Privacy', 'Trust', 'User Experience', 'Information Disclosure']",
+      "year": 2021,
       "id": "10.1145/3411764.3445415"
     },
     {
@@ -844,6 +937,9 @@
       "name": "Human-AI Interaction in Human Resource Management: Understanding Why Employees Resist Algorithmic Evaluation at Workplaces and How to Mitigate Burdens",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Employment', 'Decision Making', 'Human Resource Management', 'Employee Perception', 'Algorithmic Management']",
+      "year": 2021,
       "id": "10.1145/3411764.3445304"
     },
     {
@@ -864,6 +960,9 @@
       "name": "Learning Action Conditions for Automatic Behavior Tree Generation from Human Demonstrations",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Robotics', 'Human Interaction', 'Autonomous Learning']",
+      "year": 2024,
       "id": "10.1145/3610978.3640673"
     },
     {
@@ -898,6 +997,9 @@
       "name": "Designing AI with Metaphors: Leveraging Ambiguity and Defamiliarization to Support Design Creativity",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['Metaphors', 'Creative interpretation', 'Ambiguity', 'Design recommendations', 'Human-AI interaction']",
+      "year": 2024,
       "id": "10.1145/3635636.3664250"
     },
     {
@@ -925,6 +1027,9 @@
       "name": "My Voice as a Daily Reminder: Self-Voice Alarm for Daily Goal Achievement",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Daily Goals', 'Task Completion', 'Behavioral Change', 'Self-Voice', 'Productivity']",
+      "year": 2024,
       "id": "10.1145/3613904.3641932"
     },
     {
@@ -945,6 +1050,9 @@
       "name": "An Evaluation of Situational Autonomy for Human-AI Collaboration in a Shared Workspace Setting",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Team Performance', 'User Satisfaction', 'Autonomy', 'Collaboration']",
+      "year": 2024,
       "id": "10.1145/3613904.3642564"
     },
     {
@@ -965,6 +1073,9 @@
       "name": "Evaluation Tools for Human-AI Interactions Involving Older Adults with Mild Cognitive Impairments",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Elderly",
+      "keywords": "['Cognitive impairment', 'Older adults', 'Measurement tools', 'Dataset', 'Mild cognitive impairment']",
+      "year": 2024,
       "id": "10.1145/3610977.3637474"
     },
     {
@@ -992,6 +1103,9 @@
       "name": "Understanding the Dynamics in Creating Domain-Specific AI Design Guidelines: A Case Study of a Leading Digital Finance Company in South Korea",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['User Experience', 'Banking', 'Design Guidelines', 'Practical Resources']",
+      "year": 2024,
       "id": "10.1145/3613905.3650759"
     },
     {
@@ -1019,6 +1133,9 @@
       "name": "The Metacognitive Demands and Opportunities of Generative AI",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Generative AI', 'Metacognition', 'User experience', 'Usability challenges']",
+      "year": 2023,
       "id": "10.1145/3613904.3642902"
     },
     {
@@ -1039,6 +1156,9 @@
       "name": "Capturing Humans\u2019 Mental Models of AI: An Item Response Theory Approach",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Perception', 'Teammate', 'Performance', 'Variation', 'Mental models']",
+      "year": 2023,
       "id": "10.1145/3593013.3594111"
     },
     {
@@ -1073,6 +1193,9 @@
       "name": "HINT: Integration Testing for AI-based features with Humans in the Loop",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['AI integration testing', 'User behavior', 'Human-AI collaboration', 'Crowd-based evaluation']",
+      "year": 2022,
       "id": "10.1145/3490099.3511141"
     },
     {
@@ -1107,6 +1230,9 @@
       "name": "Understanding Students\u2019 Perspectives, Practices, and Challenges of Designing with AI in Special Schools",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Learning",
+      "keywords": "['Generative AI', 'Text-to-image', 'Special Educational Needs', 'Learning Experience', 'Design Workshops']",
+      "year": 2023,
       "id": "10.1145/3629606.3629625"
     },
     {
@@ -1134,6 +1260,9 @@
       "name": "It Seems Smart, but It Acts Stupid: Development of Trust in AI Advice in a Repeated Legal Decision-Making Task",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Trust in AI', 'Model accuracy', 'Human-like explanations', 'Decision-making', 'Criminal law cases']",
+      "year": 2023,
       "id": "10.1145/3581641.3584058"
     },
     {
@@ -1168,6 +1297,9 @@
       "name": "Player-AI Interaction: What Neural Network Games Reveal About AI as Play",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['Games', 'Human-AI Interaction', 'Learning Curve', 'Discovery-Based Learning', 'User Experience']",
+      "year": 2021,
       "id": "10.1145/3411764.3445307"
     },
     {
@@ -1195,6 +1327,9 @@
       "name": "Too Late to be Creative? AI-Empowered Tools in Creative Processes",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Creativity', 'Co-creation', 'AI tools', 'Human-AI interaction']",
+      "year": 2022,
       "id": "10.1145/3491101.3503549"
     },
     {
@@ -1229,6 +1364,9 @@
       "name": "AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['Art Therapy', 'Psychological Assessment', 'AI System', 'Trust', 'Usability']",
+      "year": 2023,
       "id": "10.1145/3581641.3584087"
     },
     {
@@ -1256,6 +1394,9 @@
       "name": "Work with AI and Work for AI: Autonomous Vehicle Safety Drivers\u2019 Lived Experiences",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Autonomous Vehicles', 'Safety Drivers', 'Human Factors', 'Workplace Dynamics']",
+      "year": 2023,
       "id": "10.1145/3544548.3581564"
     },
     {
@@ -1283,6 +1424,9 @@
       "name": "Learning Models of Individual Behavior in Chess",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Chess', 'Prediction', 'Personalization', 'Human behavior', 'Stylometry']",
+      "year": 2020,
       "id": "10.1145/3534678.3539367"
     },
     {
@@ -1310,6 +1454,9 @@
       "name": "Exploring the Impact of AI Value Alignment in Collaborative Ideation: Effects on Perception, Ownership, and Output",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Ideation', 'Values', 'Perception', 'Collaboration']",
+      "year": 2024,
       "id": "10.1145/3613905.3650892"
     },
     {
@@ -1330,6 +1477,9 @@
       "name": "Exploring AI-assisted Ideation and Prototyping for Choreography",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Choreography', 'Creativity', 'Generative AI', 'Prototyping']",
+      "year": 2024,
       "id": "10.1145/3640544.3645227"
     },
     {
@@ -1357,6 +1507,9 @@
       "name": "Using human-in-the-loop and explainable AI to envisage new future work practices",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Workplace Integration', 'Human-AI Interaction', 'Fair Systems', 'Trustworthy AI', 'Performance Augmentation']",
+      "year": 2022,
       "id": "10.1145/3529190.3534779"
     },
     {
@@ -1384,6 +1537,9 @@
       "name": "Designing for Continuous Interaction with Artificial Intelligence Systems",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['AI capabilities', 'Interactivity', 'Continuous engagement', 'User experience']",
+      "year": 2022,
       "id": "10.1145/3491101.3516409"
     },
     {
@@ -1418,6 +1574,9 @@
       "name": "Ephemera: Language as a Virus - AI-driven Interactive and Immersive Art Installation",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Social Justice",
+      "keywords": "['Language', 'Art', 'Communication', 'Censorship', 'Ethics']",
+      "year": 2024,
       "id": "10.1145/3664219"
     },
     {
@@ -1445,6 +1604,9 @@
       "name": "Making AI Understandable by Making it Tangible: Exploring the Design Space with Ten Concept Cards",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Creativity', 'Design Exploration', 'User Interaction']",
+      "year": 2022,
       "id": "10.1145/3572921.3572942"
     },
     {
@@ -1472,6 +1634,9 @@
       "name": "Studying Self-Care with Generative AI Tools: Lessons for Design",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Health",
+      "keywords": "['Self-care', 'Generative AI', 'Personalized advice', 'Creativity', 'Therapeutic self-expression']",
+      "year": 2024,
       "id": "10.1145/3643834.3661614"
     },
     {
@@ -1499,6 +1664,9 @@
       "name": "Owning Mistakes Sincerely: Strategies for Mitigating AI Errors",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['AI agents', 'Apology sincerity', 'Error recovery', 'Perception', 'User experience']",
+      "year": 2022,
       "id": "10.1145/3491102.3517565"
     },
     {
@@ -1512,6 +1680,9 @@
       "name": "Externalizing Vulnerability and Verbalizing Thoughts to More Adequately Evaluate Trust in AI",
       "kind": "paper",
       "summaries": 1,
+      "theme": "Work",
+      "keywords": "['Trust', 'User Interaction', 'AI Perception', 'Digital Products']",
+      "year": 2023,
       "id": "10.1145/3623809.3623962"
     },
     {
@@ -1532,6 +1703,9 @@
       "name": "The AI-DEC: A Card-based Design Method for User-centered AI Explanations",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Healthcare', 'Finance', 'Management']",
+      "year": 2024,
       "id": "10.1145/3643834.3661576"
     },
     {
@@ -1559,6 +1733,9 @@
       "name": "An AI-Resilient Text Rendering Technique for Reading and Skimming Documents",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Learning",
+      "keywords": "['Text Summarization', 'Text Rendering', 'Reading Comprehension', 'Information Saliency', 'Sentence Compression']",
+      "year": 2024,
       "id": "10.1145/3613904.3642699"
     },
     {
@@ -1586,6 +1763,9 @@
       "name": "RELIC: Investigating Large Language Model Responses using Self-Consistency",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Hallucination', 'Text verification', 'User interaction', 'Information reliability']",
+      "year": 2023,
       "id": "10.1145/3613904.3641904"
     },
     {
@@ -1613,6 +1793,9 @@
       "name": "Design, Development, and Deployment of Context-Adaptive AI Systems for Enhanced User Adoption",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['User-centered design', 'Context-adaptive AI', 'Safety in AI', 'Practical applicability', 'Human needs']",
+      "year": 2024,
       "id": "10.1145/3613905.3638195"
     },
     {
@@ -1640,6 +1823,9 @@
       "name": "ExpressEdit: Video Editing with Natural Language and Sketching",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Informational Videos', 'Video Editing', 'Multimodal', 'Efficiency', 'Creativity']",
+      "year": 2024,
       "id": "10.1145/3640543.3645164"
     },
     {
@@ -1660,6 +1846,9 @@
       "name": "AI-to-Human Actuation: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Smart Home', 'Sensor Technology', 'Home Automation', 'AI Inference', 'User Experience']",
+      "year": 2022,
       "id": "10.1145/3580812"
     },
     {
@@ -1687,6 +1876,9 @@
       "name": "Architecting Novel Interactions with Generative AI Models",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Generative AI', 'Interactive Computing', 'Human-Computer Interaction', 'User Control']",
+      "year": 2023,
       "id": "10.1145/3586182.3617431"
     },
     {
@@ -1700,6 +1892,9 @@
       "name": "Situated Analytics Process and Mantra",
       "kind": "paper",
       "summaries": 1,
+      "theme": "Work",
+      "keywords": "['Data Influence', 'Decision-Making', 'Mixed Reality', 'Augmented Reality', 'Visual Analytics']",
+      "year": 2024,
       "id": "10.1145/3613905.3650814"
     },
     {
@@ -1727,6 +1922,9 @@
       "name": "Social Sensemaking with AI: Designing an Open-ended AI Experience with a Blind Child",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Blindness', 'Social sensemaking', 'Open-ended AI', 'Continuous information', 'Human-AI interaction']",
+      "year": 2021,
       "id": "10.1145/3411764.3445290"
     },
     {
@@ -1754,6 +1952,9 @@
       "name": "Why Do Skimmers Perform Better with Grammar-Preserving Text Saliency Modulation (GP-TSM)? Evidence from an Eye Tracking Study",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Learning",
+      "keywords": "['Reading Efficiency', 'Text Rendering', 'User Experience']",
+      "year": 2024,
       "id": "10.1145/3613905.3650956"
     },
     {
@@ -1788,6 +1989,9 @@
       "name": "Seamful XAI: Operationalizing Seamful Design in Explainable AI",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['AI design', 'Sociotechnical systems', 'User empowerment', 'AI explainability']",
+      "year": 2022,
       "id": "10.1145/3637396"
     },
     {
@@ -1829,6 +2033,9 @@
       "name": "ProactiveAgent: Personalized Context-Aware Reminder System",
       "kind": "paper",
       "summaries": 5,
+      "theme": "Work",
+      "keywords": "['Personalized assistance', 'Context-aware recommendations', 'Environmental data', 'User intent', 'Decision support']",
+      "year": 2023,
       "id": "10.1145/3586182.3625115"
     },
     {
@@ -1849,6 +2056,9 @@
       "name": "FINER: Enhancing State-of-the-art Classifiers with Feature Attribution to Facilitate Security Analysis",
       "kind": "paper",
       "summaries": 2,
+      "theme": "Work",
+      "keywords": "['Risk Detection', 'Explanation Quality', 'Model Interpretability', 'Cybersecurity']",
+      "year": 2023,
       "id": "10.1145/3576915.3616599"
     },
     {
@@ -1876,6 +2086,9 @@
       "name": "Does More Advice Help? The Effects of Second Opinions in AI-Assisted Decision Making",
       "kind": "paper",
       "summaries": 3,
+      "theme": "Work",
+      "keywords": "['Decision-Making', 'Collaboration', 'Second Opinions', 'Behavioral Influence']",
+      "year": 2024,
       "id": "10.1145/3653708"
     },
     {
@@ -1910,6 +2123,9 @@
       "name": "VR-based Assistance System for Semi-Autonomous Robotic Boats",
       "kind": "paper",
       "summaries": 4,
+      "theme": "Work",
+      "keywords": "['Teleoperation', 'Robotic boats', 'Virtual reality', 'Autonomous driving']",
+      "year": 2024,
       "id": "10.1145/3610978.3640750"
     }
   ],
@@ -1939,11 +2155,6 @@
       "target": "10.1145/3411764.3445645:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3636308:0",
-      "target": "10.1145/3613905.3636308"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the interaction between students and AI, particularly concerning how perceptions evolve and the importance of understanding mental models in designing AI systems. While they focus on different aspects (one on perception evolution, the other on design), they share a theme around students' engagement with AI technologies.",
       "polarity": "positive",
@@ -1966,11 +2177,6 @@
       "kind": "finding",
       "source": "10.1145/3613905.3636308:1",
       "target": "10.1145/3411764.3445645:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3636308:1",
-      "target": "10.1145/3613905.3636308"
     },
     {
       "relation": "similarity",
@@ -1997,14 +2203,24 @@
       "target": "10.1145/3411764.3445645:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3636308:2",
-      "target": "10.1145/3613905.3636308"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3613905.3636308",
       "target": "10.1145/3411764.3445645"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3636308",
+      "target": "10.1145/3613905.3636308:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3636308",
+      "target": "10.1145/3613905.3636308:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3636308",
+      "target": "10.1145/3613905.3636308:2"
     },
     {
       "relation": "similarity",
@@ -2159,11 +2375,6 @@
       "target": "10.1145/3663740:5"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3511605:0",
-      "target": "10.1145/3511605"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the interaction between AI and user experience, specifically in terms of guidelines and performance in the context of the banking sector, although they approach the topic from different angles.",
       "polarity": "positive",
@@ -2314,11 +2525,6 @@
       "kind": "finding",
       "source": "10.1145/3511605:1",
       "target": "10.1145/3663740:5"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3511605:1",
-      "target": "10.1145/3511605"
     },
     {
       "relation": "similarity",
@@ -2473,11 +2679,6 @@
       "target": "10.1145/3663740:5"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3511605:2",
-      "target": "10.1145/3511605"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3511605",
       "target": "10.1145/3313831.3376301"
@@ -2488,19 +2689,19 @@
       "target": "10.1145/3290605.3300233"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3511605",
-      "target": "10.1145/3663740"
+      "target": "10.1145/3511605:0"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3511605",
-      "target": "10.1145/3613905.3650759"
+      "target": "10.1145/3511605:1"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3511605",
-      "target": "10.1145/3629606.3629625"
+      "target": "10.1145/3511605:2"
     },
     {
       "relation": "similarity",
@@ -2623,11 +2824,6 @@
       "target": "10.1145/3411764.3445307:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650743:0",
-      "target": "10.1145/3613905.3650743"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the impact of AI on human experiences, but they focus on different contexts. The first statement addresses various burdens employees feel towards AI in human resource management, while the second highlights AI's role in enhancing personal reflections during prayer. Therefore, they share a theme of AI's influence on human behavior without a direct hierarchical relationship.",
       "polarity": "negative",
@@ -2746,11 +2942,6 @@
       "kind": "finding",
       "source": "10.1145/3613905.3650743:1",
       "target": "10.1145/3411764.3445307:3"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650743:1",
-      "target": "10.1145/3613905.3650743"
     },
     {
       "relation": "similarity",
@@ -2873,11 +3064,6 @@
       "target": "10.1145/3411764.3445307:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650743:2",
-      "target": "10.1145/3613905.3650743"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3613905.3650743",
       "target": "10.1145/3491102.3501855"
@@ -2901,6 +3087,21 @@
       "kind": "paper",
       "source": "10.1145/3613905.3650743",
       "target": "10.1145/3411764.3445307"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3650743",
+      "target": "10.1145/3613905.3650743:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3650743",
+      "target": "10.1145/3613905.3650743:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3650743",
+      "target": "10.1145/3613905.3650743:2"
     },
     {
       "relation": "similarity",
@@ -2927,11 +3128,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3660697:0",
-      "target": "10.1145/3643834.3660697"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the effects of AI systems on user experience and decision-making, addressing the broader implications of AI without establishing a direct hierarchical relationship.",
       "polarity": "negative",
@@ -2956,29 +3152,34 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3660697:1",
-      "target": "10.1145/3643834.3660697"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3643834.3660697",
       "target": "10.1145/3313831.3376301"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3639592.3639625:0",
-      "target": "10.1145/3639592.3639625"
+      "source": "10.1145/3643834.3660697",
+      "target": "10.1145/3643834.3660697:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3639592.3639625:1",
-      "target": "10.1145/3639592.3639625"
+      "source": "10.1145/3643834.3660697",
+      "target": "10.1145/3643834.3660697:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3639592.3639625:2",
-      "target": "10.1145/3639592.3639625"
+      "source": "10.1145/3639592.3639625",
+      "target": "10.1145/3639592.3639625:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3639592.3639625",
+      "target": "10.1145/3639592.3639625:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3639592.3639625",
+      "target": "10.1145/3639592.3639625:2"
     },
     {
       "relation": "similarity",
@@ -2997,11 +3198,6 @@
       "target": "10.1145/3411764.3445304:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3638186:0",
-      "target": "10.1145/3613905.3638186"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address burdens related to AI in different contexts. The first statement lists specific types of burdens employees face regarding AI in HR management, while the second discusses how a specific AI application (a conversational agent) can alleviate certain burdens experienced by a specific group (survivors of sexual assault). They both relate to the theme of AI's impact on human experiences but focus on different scopes and contexts.",
       "polarity": "negative",
@@ -3016,11 +3212,6 @@
       "kind": "finding",
       "source": "10.1145/3613905.3638186:1",
       "target": "10.1145/3411764.3445304:1"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3638186:1",
-      "target": "10.1145/3613905.3638186"
     },
     {
       "relation": "similarity",
@@ -3039,14 +3230,24 @@
       "target": "10.1145/3411764.3445304:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3638186:2",
-      "target": "10.1145/3613905.3638186"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3613905.3638186",
       "target": "10.1145/3411764.3445304"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3638186",
+      "target": "10.1145/3613905.3638186:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3638186",
+      "target": "10.1145/3613905.3638186:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3638186",
+      "target": "10.1145/3613905.3638186:2"
     },
     {
       "relation": "similarity",
@@ -3073,11 +3274,6 @@
       "target": "10.1145/3290605.3300233:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3696449:0",
-      "target": "10.1145/3696449"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss aspects of AI interaction; the first emphasizes design validation while the second addresses trust, relating to the broader theme of human-AI relationships. They do not directly depend on each other hierarchically.",
       "polarity": "negative",
@@ -3100,11 +3296,6 @@
       "kind": "finding",
       "source": "10.1145/3696449:1",
       "target": "10.1145/3290605.3300233:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3696449:1",
-      "target": "10.1145/3696449"
     },
     {
       "relation": "similarity",
@@ -3131,11 +3322,6 @@
       "target": "10.1145/3290605.3300233:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3696449:2",
-      "target": "10.1145/3696449"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address aspects of human-AI interaction. The first talks about validating design guidelines through evaluations, while the second highlights challenges and opportunities in the same domain. They are connected through their focus on improving human-AI interactions, but do not have a direct hierarchical relationship.",
       "polarity": "positive",
@@ -3160,14 +3346,29 @@
       "target": "10.1145/3290605.3300233:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3696449:3",
-      "target": "10.1145/3696449"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3696449",
       "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3696449",
+      "target": "10.1145/3696449:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3696449",
+      "target": "10.1145/3696449:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3696449",
+      "target": "10.1145/3696449:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3696449",
+      "target": "10.1145/3696449:3"
     },
     {
       "relation": "similarity",
@@ -3218,11 +3419,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3663740:0",
-      "target": "10.1145/3663740"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss factors that influence AI interaction design and outcomes. The first emphasizes the importance of validated design guidelines in evaluations, while the second highlights how the inclusivity of AI products depends on guidelines and user styles. They both relate to the broader theme of effective AI design but do not establish a clear hierarchical relationship.",
       "polarity": "positive",
@@ -3269,11 +3465,6 @@
       "kind": "finding",
       "source": "10.1145/3663740:1",
       "target": "10.1145/3313831.3376301:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3663740:1",
-      "target": "10.1145/3663740"
     },
     {
       "relation": "similarity",
@@ -3324,11 +3515,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3663740:2",
-      "target": "10.1145/3663740"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss aspects related to human-AI interaction, focusing on evaluation and user experience. They do not directly relate to each other in a hierarchical manner, but both emphasize user-centered considerations in AI design and development.",
       "polarity": "positive",
@@ -3375,11 +3561,6 @@
       "kind": "finding",
       "source": "10.1145/3663740:3",
       "target": "10.1145/3313831.3376301:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3663740:3",
-      "target": "10.1145/3663740"
     },
     {
       "relation": "similarity",
@@ -3430,11 +3611,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3663740:4",
-      "target": "10.1145/3663740"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the evaluation of human-AI interaction (HAI) and its impact on practitioners, though they focus on different aspects \u2014 one on validation of design guidelines and the other on actionable improvements.",
       "polarity": "positive",
@@ -3483,9 +3659,9 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3663740:5",
-      "target": "10.1145/3663740"
+      "kind": "paper",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3511605"
     },
     {
       "kind": "paper",
@@ -3496,6 +3672,36 @@
       "kind": "paper",
       "source": "10.1145/3663740",
       "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3663740:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3663740:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3663740:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3663740:3"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3663740:4"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3663740",
+      "target": "10.1145/3663740:5"
     },
     {
       "relation": "similarity",
@@ -3618,11 +3824,6 @@
       "target": "10.1145/3529190.3534779:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3486941:0",
-      "target": "10.1145/3486941"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss aspects of AI and its effect on user experience, albeit from different angles. The first highlights unpredictability in user experience caused by AI systems, while the second focuses on the research context of human-AI interactions. They both engage with the theme of AI's influence on user experience but do not establish a direct hierarchical relationship.",
       "polarity": "negative",
@@ -3741,11 +3942,6 @@
       "kind": "finding",
       "source": "10.1145/3486941:1",
       "target": "10.1145/3529190.3534779:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3486941:1",
-      "target": "10.1145/3486941"
     },
     {
       "relation": "similarity",
@@ -3868,34 +4064,24 @@
       "target": "10.1145/3529190.3534779:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3486941:2",
-      "target": "10.1145/3486941"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3486941",
       "target": "10.1145/3313831.3376301"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3486941",
-      "target": "10.1145/3613905.3650886"
+      "target": "10.1145/3486941:0"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3486941",
-      "target": "10.1145/3529190.3534779"
+      "target": "10.1145/3486941:1"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3486941",
-      "target": "10.1145/3491101.3516409"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3486941",
-      "target": "10.1145/3572921.3572942"
+      "target": "10.1145/3486941:2"
     },
     {
       "relation": "similarity",
@@ -3970,11 +4156,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650886:0",
-      "target": "10.1145/3613905.3650886"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the impact of AI on human capabilities and experience, but they focus on different aspects. The first statement emphasizes AI's role in enhancing individual capabilities, particularly for a blind child, while the second discusses variability in user control across different interaction paradigms, which indirectly relates to user experience with technology.",
       "polarity": "positive",
@@ -4045,11 +4226,6 @@
       "kind": "finding",
       "source": "10.1145/3613905.3650886:1",
       "target": "10.1145/3313831.3376301:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650886:1",
-      "target": "10.1145/3613905.3650886"
     },
     {
       "relation": "similarity",
@@ -4124,9 +4300,9 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650886:2",
-      "target": "10.1145/3613905.3650886"
+      "kind": "paper",
+      "source": "10.1145/3613905.3650886",
+      "target": "10.1145/3486941"
     },
     {
       "kind": "paper",
@@ -4145,28 +4321,43 @@
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3544548.3581001:0",
-      "target": "10.1145/3544548.3581001"
+      "source": "10.1145/3613905.3650886",
+      "target": "10.1145/3613905.3650886:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3544548.3581001:1",
-      "target": "10.1145/3544548.3581001"
+      "source": "10.1145/3613905.3650886",
+      "target": "10.1145/3613905.3650886:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3544548.3581001:2",
-      "target": "10.1145/3544548.3581001"
+      "source": "10.1145/3613905.3650886",
+      "target": "10.1145/3613905.3650886:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3636304:0",
-      "target": "10.1145/3613905.3636304"
+      "source": "10.1145/3544548.3581001",
+      "target": "10.1145/3544548.3581001:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3636304:1",
-      "target": "10.1145/3613905.3636304"
+      "source": "10.1145/3544548.3581001",
+      "target": "10.1145/3544548.3581001:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3544548.3581001",
+      "target": "10.1145/3544548.3581001:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3636304",
+      "target": "10.1145/3613905.3636304:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3636304",
+      "target": "10.1145/3613905.3636304:1"
     },
     {
       "relation": "similarity",
@@ -4233,11 +4424,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519833:0",
-      "target": "10.1145/3491101.3519833"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the interactions between users and AI systems, though from different angles. The first focuses on user trust in AI's presentation, while the second emphasizes user-generated content influencing the design of AI systems. Each highlights aspects of user engagement and perception related to AI.",
       "polarity": "positive",
@@ -4300,11 +4486,6 @@
       "kind": "finding",
       "source": "10.1145/3491101.3519833:1",
       "target": "10.1145/3313831.3376301:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519833:1",
-      "target": "10.1145/3491101.3519833"
     },
     {
       "relation": "similarity",
@@ -4371,11 +4552,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519833:2",
-      "target": "10.1145/3491101.3519833"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3491101.3519833",
       "target": "10.1145/3411764.3445415"
@@ -4389,6 +4565,21 @@
       "kind": "paper",
       "source": "10.1145/3491101.3519833",
       "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519833",
+      "target": "10.1145/3491101.3519833:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519833",
+      "target": "10.1145/3491101.3519833:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519833",
+      "target": "10.1145/3491101.3519833:2"
     },
     {
       "relation": "similarity",
@@ -4887,11 +5078,6 @@
       "target": "10.1145/3411764.3445290:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3290605.3300233:0",
-      "target": "10.1145/3290605.3300233"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the interaction between players and AI systems, focusing on understanding and evaluation. The first emphasizes player misconceptions through the adaptation of Stable Diffusion in a game, while the second highlights the evaluation of guidelines in various AI product interactions. They share a common theme of assessing and exploring AI systems but do not directly build upon each other.",
       "polarity": "positive",
@@ -5386,11 +5572,6 @@
       "kind": "finding",
       "source": "10.1145/3290605.3300233:1",
       "target": "10.1145/3411764.3445290:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3290605.3300233:1",
-      "target": "10.1145/3290605.3300233"
     },
     {
       "relation": "similarity",
@@ -5890,123 +6071,28 @@
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3290605.3300233:2",
-      "target": "10.1145/3290605.3300233"
-    },
-    {
-      "kind": "paper",
       "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3582437.3587198"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3491101.3519772"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3491102.3517582"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3491102.3501855"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3565698.3565773"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3411764.3445645"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3313831.3376301"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1109/ASE51524.2021.9678647"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3411764.3445304"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3613904.3642564"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3613905.3650759"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3490099.3511141"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3411764.3445307"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3529190.3534779"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3491101.3516409"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3572921.3572942"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3613904.3642699"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3613905.3638195"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3640543.3645164"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3580812"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3290605.3300233",
-      "target": "10.1145/3411764.3445290"
+      "target": "10.1145/3290605.3300233:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3644065:0",
-      "target": "10.1145/3613905.3644065"
+      "source": "10.1145/3290605.3300233",
+      "target": "10.1145/3290605.3300233:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3644065:1",
-      "target": "10.1145/3613905.3644065"
+      "source": "10.1145/3290605.3300233",
+      "target": "10.1145/3290605.3300233:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3644065",
+      "target": "10.1145/3613905.3644065:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3644065",
+      "target": "10.1145/3613905.3644065:1"
     },
     {
       "relation": "similarity",
@@ -6065,11 +6151,6 @@
       "target": "10.1145/3411764.3445307:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3582437.3587198:0",
-      "target": "10.1145/3582437.3587198"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss aspects of user interaction with AI systems, albeit from different perspectives. The first highlights the unpredictability and negative effects on user experience, while the second emphasizes the potential for enhancing user understanding through engagement. They're related to user experiences but do not imply a direct hierarchical relation.",
       "polarity": "negative",
@@ -6126,11 +6207,6 @@
       "target": "10.1145/3411764.3445307:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3582437.3587198:1",
-      "target": "10.1145/3582437.3587198"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3582437.3587198",
       "target": "10.1145/3411764.3445307"
@@ -6141,19 +6217,34 @@
       "target": "10.1145/3313831.3376301"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411763.3451759:0",
-      "target": "10.1145/3411763.3451759"
+      "kind": "paper",
+      "source": "10.1145/3582437.3587198",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411763.3451759:1",
-      "target": "10.1145/3411763.3451759"
+      "source": "10.1145/3582437.3587198",
+      "target": "10.1145/3582437.3587198:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411763.3451759:2",
-      "target": "10.1145/3411763.3451759"
+      "source": "10.1145/3582437.3587198",
+      "target": "10.1145/3582437.3587198:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411763.3451759",
+      "target": "10.1145/3411763.3451759:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411763.3451759",
+      "target": "10.1145/3411763.3451759:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411763.3451759",
+      "target": "10.1145/3411763.3451759:2"
     },
     {
       "relation": "similarity",
@@ -6172,11 +6263,6 @@
       "target": "10.1145/3411764.3445415:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519772:0",
-      "target": "10.1145/3491101.3519772"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss aspects of trust in AI, although they focus on different elements. The first statement emphasizes how trust is affected by the framing of AI roles, while the second statement comments on the overall state of research regarding trust in AI.",
       "polarity": "negative",
@@ -6191,11 +6277,6 @@
       "kind": "finding",
       "source": "10.1145/3491101.3519772:1",
       "target": "10.1145/3411764.3445415:1"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519772:1",
-      "target": "10.1145/3491101.3519772"
     },
     {
       "relation": "similarity",
@@ -6214,11 +6295,6 @@
       "target": "10.1145/3411764.3445415:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519772:2",
-      "target": "10.1145/3491101.3519772"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address the theme of trust in AI systems, focusing on users' perceptions and the research landscape around it, but they do not have a direct hierarchical relationship.",
       "polarity": "negative",
@@ -6233,11 +6309,6 @@
       "kind": "finding",
       "source": "10.1145/3491101.3519772:3",
       "target": "10.1145/3411764.3445415:1"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519772:3",
-      "target": "10.1145/3491101.3519772"
     },
     {
       "relation": "similarity",
@@ -6256,14 +6327,39 @@
       "target": "10.1145/3411764.3445415:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3519772:4",
-      "target": "10.1145/3491101.3519772"
+      "kind": "paper",
+      "source": "10.1145/3491101.3519772",
+      "target": "10.1145/3411764.3445415"
     },
     {
       "kind": "paper",
       "source": "10.1145/3491101.3519772",
-      "target": "10.1145/3411764.3445415"
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519772",
+      "target": "10.1145/3491101.3519772:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519772",
+      "target": "10.1145/3491101.3519772:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519772",
+      "target": "10.1145/3491101.3519772:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519772",
+      "target": "10.1145/3491101.3519772:3"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491101.3519772",
+      "target": "10.1145/3491101.3519772:4"
     },
     {
       "relation": "similarity",
@@ -6290,11 +6386,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642793:0",
-      "target": "10.1145/3613904.3642793"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address issues related to AI systems and their effects on user experience and effectiveness, though they highlight different aspects of the challenges involved.",
       "polarity": "negative",
@@ -6317,11 +6408,6 @@
       "kind": "finding",
       "source": "10.1145/3613904.3642793:1",
       "target": "10.1145/3313831.3376301:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642793:1",
-      "target": "10.1145/3613904.3642793"
     },
     {
       "relation": "similarity",
@@ -6348,14 +6434,24 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642793:2",
-      "target": "10.1145/3613904.3642793"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3613904.3642793",
       "target": "10.1145/3313831.3376301"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642793",
+      "target": "10.1145/3613904.3642793:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642793",
+      "target": "10.1145/3613904.3642793:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642793",
+      "target": "10.1145/3613904.3642793:2"
     },
     {
       "relation": "similarity",
@@ -6430,11 +6526,6 @@
       "target": "10.1145/3640543.3645164:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3517582:0",
-      "target": "10.1145/3491102.3517582"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address features of systems related to Large Language Models (LLMs), focusing on user involvement and the evaluation of LLM-generated content. However, they discuss different aspects of system functionalities without a direct hierarchical relationship.",
       "polarity": "positive",
@@ -6505,11 +6596,6 @@
       "kind": "finding",
       "source": "10.1145/3491102.3517582:1",
       "target": "10.1145/3640543.3645164:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3517582:1",
-      "target": "10.1145/3491102.3517582"
     },
     {
       "relation": "similarity",
@@ -6584,34 +6670,34 @@
       "target": "10.1145/3640543.3645164:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3517582:2",
-      "target": "10.1145/3491102.3517582"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3491102.3517582",
-      "target": "10.1145/3613904.3642902"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3491102.3517582",
-      "target": "10.1145/3613904.3641904"
-    },
-    {
-      "kind": "paper",
-      "source": "10.1145/3491102.3517582",
-      "target": "10.1145/3640543.3645164"
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640543.3645205:0",
-      "target": "10.1145/3640543.3645205"
+      "source": "10.1145/3491102.3517582",
+      "target": "10.1145/3491102.3517582:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640543.3645205:1",
-      "target": "10.1145/3640543.3645205"
+      "source": "10.1145/3491102.3517582",
+      "target": "10.1145/3491102.3517582:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3517582",
+      "target": "10.1145/3491102.3517582:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3640543.3645205",
+      "target": "10.1145/3640543.3645205:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3640543.3645205",
+      "target": "10.1145/3640543.3645205:1"
     },
     {
       "relation": "similarity",
@@ -6630,11 +6716,6 @@
       "target": "10.1145/3527927.3532789:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445256:0",
-      "target": "10.1145/3411764.3445256"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address aspects of communication in contexts involving AI and humans. The first statement focuses on enhancement of engagement in co-creation tasks, while the second highlights differences in social perception based on the nature of the partner (AI vs. human). They are related thematically through their focus on interaction outcomes involving AI and human communication, but they do not directly cascade into a generalization or specification relationship.",
       "polarity": "negative",
@@ -6649,11 +6730,6 @@
       "kind": "finding",
       "source": "10.1145/3411764.3445256:1",
       "target": "10.1145/3527927.3532789:1"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445256:1",
-      "target": "10.1145/3411764.3445256"
     },
     {
       "relation": "similarity",
@@ -6673,13 +6749,18 @@
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445256:2",
-      "target": "10.1145/3411764.3445256"
+      "source": "10.1145/3411764.3445256",
+      "target": "10.1145/3411764.3445256:0"
     },
     {
-      "kind": "paper",
+      "kind": "paper_to_finding",
       "source": "10.1145/3411764.3445256",
-      "target": "10.1145/3527927.3532789"
+      "target": "10.1145/3411764.3445256:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445256",
+      "target": "10.1145/3411764.3445256:2"
     },
     {
       "relation": "similarity",
@@ -6706,11 +6787,6 @@
       "target": "10.1145/3411764.3445645:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3501855:0",
-      "target": "10.1145/3491102.3501855"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address the topic of user experience in relation to conversational agents, but they focus on different aspects. The first statement discusses the evolution of student perceptions, while the second statement emphasizes the need for improved usability testing methods. They are connected through the theme of enhancing interactions with virtual agents.",
       "polarity": "positive",
@@ -6733,11 +6809,6 @@
       "kind": "finding",
       "source": "10.1145/3491102.3501855:1",
       "target": "10.1145/3411764.3445645:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3501855:1",
-      "target": "10.1145/3491102.3501855"
     },
     {
       "relation": "similarity",
@@ -6764,14 +6835,29 @@
       "target": "10.1145/3411764.3445645:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3501855:2",
-      "target": "10.1145/3491102.3501855"
+      "kind": "paper",
+      "source": "10.1145/3491102.3501855",
+      "target": "10.1145/3411764.3445645"
     },
     {
       "kind": "paper",
       "source": "10.1145/3491102.3501855",
-      "target": "10.1145/3411764.3445645"
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3501855",
+      "target": "10.1145/3491102.3501855:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3501855",
+      "target": "10.1145/3491102.3501855:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3501855",
+      "target": "10.1145/3491102.3501855:2"
     },
     {
       "relation": "similarity",
@@ -6798,11 +6884,6 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3565698.3565773:0",
-      "target": "10.1145/3565698.3565773"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements explore the implications of AI systems, though they address different aspects. The first statement discusses the unpredictable impacts of AI on user experience, while the second examines compliance issues related to HAI interaction design and ethical guidelines. They both reflect concerns related to the influence of AI, without establishing a direct hierarchical or contrasting relationship.",
       "polarity": "negative",
@@ -6827,29 +6908,39 @@
       "target": "10.1145/3313831.3376301:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3565698.3565773:1",
-      "target": "10.1145/3565698.3565773"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3565698.3565773",
       "target": "10.1145/3313831.3376301"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3464385.3464696:0",
-      "target": "10.1145/3464385.3464696"
+      "kind": "paper",
+      "source": "10.1145/3565698.3565773",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3464385.3464696:1",
-      "target": "10.1145/3464385.3464696"
+      "source": "10.1145/3565698.3565773",
+      "target": "10.1145/3565698.3565773:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3464385.3464696:2",
-      "target": "10.1145/3464385.3464696"
+      "source": "10.1145/3565698.3565773",
+      "target": "10.1145/3565698.3565773:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3464385.3464696",
+      "target": "10.1145/3464385.3464696:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3464385.3464696",
+      "target": "10.1145/3464385.3464696:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3464385.3464696",
+      "target": "10.1145/3464385.3464696:2"
     },
     {
       "relation": "similarity",
@@ -6884,11 +6975,6 @@
       "target": "10.1145/3635636.3664250:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3527927.3532789:0",
-      "target": "10.1145/3527927.3532789"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address the relationship between AI and creativity or user interaction, highlighting its role in enhancing perceptions or interpretations in a creative context. However, they do so from different angles without direct hierarchical implications.",
       "polarity": "positive",
@@ -6921,14 +7007,19 @@
       "target": "10.1145/3635636.3664250:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3527927.3532789:1",
-      "target": "10.1145/3527927.3532789"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3527927.3532789",
-      "target": "10.1145/3635636.3664250"
+      "target": "10.1145/3411764.3445256"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3527927.3532789",
+      "target": "10.1145/3527927.3532789:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3527927.3532789",
+      "target": "10.1145/3527927.3532789:1"
     },
     {
       "relation": "similarity",
@@ -6947,11 +7038,6 @@
       "target": "10.1145/3593013.3594111:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445645:0",
-      "target": "10.1145/3411764.3445645"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the expectations and perceptions of AI in different contexts, focusing on performance and features, without establishing a direct hierarchical relationship between them.",
       "polarity": "negative",
@@ -6966,11 +7052,6 @@
       "kind": "finding",
       "source": "10.1145/3411764.3445645:1",
       "target": "10.1145/3593013.3594111:1"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445645:1",
-      "target": "10.1145/3411764.3445645"
     },
     {
       "relation": "similarity",
@@ -6989,14 +7070,24 @@
       "target": "10.1145/3593013.3594111:1"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445645:2",
-      "target": "10.1145/3411764.3445645"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3411764.3445645",
-      "target": "10.1145/3593013.3594111"
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445645",
+      "target": "10.1145/3411764.3445645:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445645",
+      "target": "10.1145/3411764.3445645:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445645",
+      "target": "10.1145/3411764.3445645:2"
     },
     {
       "relation": "similarity",
@@ -7247,11 +7338,6 @@
       "target": "10.1145/3637396:3"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3313831.3376301:0",
-      "target": "10.1145/3313831.3376301"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address challenges related to AI in the context of human resource management, focusing on the burdens experienced by employees and the complexities of AI interactions. However, they do not depict a direct hierarchical relationship, as they highlight different aspects of the human-AI interface.",
       "polarity": "negative",
@@ -7498,11 +7584,6 @@
       "kind": "finding",
       "source": "10.1145/3313831.3376301:1",
       "target": "10.1145/3637396:3"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3313831.3376301:1",
-      "target": "10.1145/3313831.3376301"
     },
     {
       "relation": "similarity",
@@ -7753,234 +7834,264 @@
       "target": "10.1145/3637396:3"
     },
     {
+      "kind": "paper",
+      "source": "10.1145/3313831.3376301",
+      "target": "10.1145/3290605.3300233"
+    },
+    {
       "kind": "paper_to_finding",
-      "source": "10.1145/3313831.3376301:2",
+      "source": "10.1145/3313831.3376301",
+      "target": "10.1145/3313831.3376301:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3313831.3376301",
+      "target": "10.1145/3313831.3376301:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3313831.3376301",
+      "target": "10.1145/3313831.3376301:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3543758.3543761",
+      "target": "10.1145/3543758.3543761:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3543758.3543761",
+      "target": "10.1145/3543758.3543761:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3543758.3543761",
+      "target": "10.1145/3543758.3543761:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1109/ASE51524.2021.9678647",
       "target": "10.1145/3313831.3376301"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1109/ASE51524.2021.9678647"
+      "source": "10.1109/ASE51524.2021.9678647",
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1109/ASE51524.2021.9678647",
+      "target": "10.1109/ASE51524.2021.9678647:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1109/ASE51524.2021.9678647",
+      "target": "10.1109/ASE51524.2021.9678647:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1109/ASE51524.2021.9678647",
+      "target": "10.1109/ASE51524.2021.9678647:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445415",
+      "target": "10.1145/3411764.3445415:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445415",
+      "target": "10.1145/3411764.3445415:1"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3411764.3445304"
+      "source": "10.1145/3411764.3445304",
+      "target": "10.1145/3313831.3376301"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3613905.3650759"
+      "source": "10.1145/3411764.3445304",
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445304",
+      "target": "10.1145/3411764.3445304:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3411764.3445304",
+      "target": "10.1145/3411764.3445304:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3610978.3640673",
+      "target": "10.1145/3610978.3640673:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3610978.3640673",
+      "target": "10.1145/3610978.3640673:1"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3490099.3511141"
+      "source": "10.1145/3635636.3664250",
+      "target": "10.1145/3527927.3532789"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3635636.3664250",
+      "target": "10.1145/3635636.3664250:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3635636.3664250",
+      "target": "10.1145/3635636.3664250:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3635636.3664250",
+      "target": "10.1145/3635636.3664250:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3635636.3664250",
+      "target": "10.1145/3635636.3664250:3"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3641932",
+      "target": "10.1145/3613904.3641932:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3641932",
+      "target": "10.1145/3613904.3641932:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3641932",
+      "target": "10.1145/3613904.3641932:2"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3411764.3445307"
+      "source": "10.1145/3613904.3642564",
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642564",
+      "target": "10.1145/3613904.3642564:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642564",
+      "target": "10.1145/3613904.3642564:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3610977.3637474",
+      "target": "10.1145/3610977.3637474:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3610977.3637474",
+      "target": "10.1145/3610977.3637474:1"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3491101.3503549"
+      "source": "10.1145/3613905.3650759",
+      "target": "10.1145/3511605"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3529190.3534779"
+      "source": "10.1145/3613905.3650759",
+      "target": "10.1145/3313831.3376301"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3643834.3661576"
+      "source": "10.1145/3613905.3650759",
+      "target": "10.1145/3290605.3300233"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3650759",
+      "target": "10.1145/3613905.3650759:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3650759",
+      "target": "10.1145/3613905.3650759:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613905.3650759",
+      "target": "10.1145/3613905.3650759:2"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3411764.3445290"
+      "source": "10.1145/3613904.3642902",
+      "target": "10.1145/3491102.3517582"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642902",
+      "target": "10.1145/3613904.3642902:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642902",
+      "target": "10.1145/3613904.3642902:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642902",
+      "target": "10.1145/3613904.3642902:2"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3313831.3376301",
-      "target": "10.1145/3637396"
+      "source": "10.1145/3593013.3594111",
+      "target": "10.1145/3411764.3445645"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3543758.3543761:0",
-      "target": "10.1145/3543758.3543761"
+      "source": "10.1145/3593013.3594111",
+      "target": "10.1145/3593013.3594111:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3543758.3543761:1",
-      "target": "10.1145/3543758.3543761"
+      "source": "10.1145/3593013.3594111",
+      "target": "10.1145/3593013.3594111:1"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3490099.3511141",
+      "target": "10.1145/3313831.3376301"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3490099.3511141",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3543758.3543761:2",
-      "target": "10.1145/3543758.3543761"
+      "source": "10.1145/3490099.3511141",
+      "target": "10.1145/3490099.3511141:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1109/ASE51524.2021.9678647:0",
-      "target": "10.1109/ASE51524.2021.9678647"
+      "source": "10.1145/3490099.3511141",
+      "target": "10.1145/3490099.3511141:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1109/ASE51524.2021.9678647:1",
-      "target": "10.1109/ASE51524.2021.9678647"
+      "source": "10.1145/3490099.3511141",
+      "target": "10.1145/3490099.3511141:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1109/ASE51524.2021.9678647:2",
-      "target": "10.1109/ASE51524.2021.9678647"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445415:0",
-      "target": "10.1145/3411764.3445415"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445415:1",
-      "target": "10.1145/3411764.3445415"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445304:0",
-      "target": "10.1145/3411764.3445304"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445304:1",
-      "target": "10.1145/3411764.3445304"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3610978.3640673:0",
-      "target": "10.1145/3610978.3640673"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3610978.3640673:1",
-      "target": "10.1145/3610978.3640673"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3635636.3664250:0",
-      "target": "10.1145/3635636.3664250"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3635636.3664250:1",
-      "target": "10.1145/3635636.3664250"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3635636.3664250:2",
-      "target": "10.1145/3635636.3664250"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3635636.3664250:3",
-      "target": "10.1145/3635636.3664250"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3641932:0",
-      "target": "10.1145/3613904.3641932"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3641932:1",
-      "target": "10.1145/3613904.3641932"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3641932:2",
-      "target": "10.1145/3613904.3641932"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642564:0",
-      "target": "10.1145/3613904.3642564"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642564:1",
-      "target": "10.1145/3613904.3642564"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3610977.3637474:0",
-      "target": "10.1145/3610977.3637474"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3610977.3637474:1",
-      "target": "10.1145/3610977.3637474"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650759:0",
-      "target": "10.1145/3613905.3650759"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650759:1",
-      "target": "10.1145/3613905.3650759"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650759:2",
-      "target": "10.1145/3613905.3650759"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642902:0",
-      "target": "10.1145/3613904.3642902"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642902:1",
-      "target": "10.1145/3613904.3642902"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642902:2",
-      "target": "10.1145/3613904.3642902"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3593013.3594111:0",
-      "target": "10.1145/3593013.3594111"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3593013.3594111:1",
-      "target": "10.1145/3593013.3594111"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3490099.3511141:0",
-      "target": "10.1145/3490099.3511141"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3490099.3511141:1",
-      "target": "10.1145/3490099.3511141"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3490099.3511141:2",
-      "target": "10.1145/3490099.3511141"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3490099.3511141:3",
-      "target": "10.1145/3490099.3511141"
+      "source": "10.1145/3490099.3511141",
+      "target": "10.1145/3490099.3511141:3"
     },
     {
       "relation": "similarity",
@@ -8007,11 +8118,6 @@
       "target": "10.1145/3491101.3503549:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3629606.3629625:0",
-      "target": "10.1145/3629606.3629625"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the role of AI in the creative process, with the first focusing on its role in idea generation and execution, while the second illustrates a specific instance of AI aiding individuals in executing their creative ideas.",
       "polarity": "positive",
@@ -8034,11 +8140,6 @@
       "kind": "finding",
       "source": "10.1145/3629606.3629625:1",
       "target": "10.1145/3491101.3503549:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3629606.3629625:1",
-      "target": "10.1145/3629606.3629625"
     },
     {
       "relation": "similarity",
@@ -8065,11 +8166,6 @@
       "target": "10.1145/3491101.3503549:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3629606.3629625:2",
-      "target": "10.1145/3629606.3629625"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements address the challenges and limitations associated with the use of AI in creative processes, although they focus on different aspects. The first statement discusses AI's role mainly in generating ideas, while the second highlights the difficulties students face when interacting with AI.",
       "polarity": "negative",
@@ -8094,239 +8190,309 @@
       "target": "10.1145/3491101.3503549:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3629606.3629625:3",
-      "target": "10.1145/3629606.3629625"
-    },
-    {
       "kind": "paper",
       "source": "10.1145/3629606.3629625",
       "target": "10.1145/3491101.3503549"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584058:0",
-      "target": "10.1145/3581641.3584058"
+      "kind": "paper",
+      "source": "10.1145/3629606.3629625",
+      "target": "10.1145/3511605"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584058:1",
-      "target": "10.1145/3581641.3584058"
+      "source": "10.1145/3629606.3629625",
+      "target": "10.1145/3629606.3629625:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584058:2",
-      "target": "10.1145/3581641.3584058"
+      "source": "10.1145/3629606.3629625",
+      "target": "10.1145/3629606.3629625:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445307:0",
-      "target": "10.1145/3411764.3445307"
+      "source": "10.1145/3629606.3629625",
+      "target": "10.1145/3629606.3629625:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445307:1",
-      "target": "10.1145/3411764.3445307"
+      "source": "10.1145/3629606.3629625",
+      "target": "10.1145/3629606.3629625:3"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445307:2",
-      "target": "10.1145/3411764.3445307"
+      "source": "10.1145/3581641.3584058",
+      "target": "10.1145/3581641.3584058:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445307:3",
-      "target": "10.1145/3411764.3445307"
+      "source": "10.1145/3581641.3584058",
+      "target": "10.1145/3581641.3584058:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3503549:0",
-      "target": "10.1145/3491101.3503549"
+      "source": "10.1145/3581641.3584058",
+      "target": "10.1145/3581641.3584058:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3411764.3445307",
+      "target": "10.1145/3313831.3376301"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3411764.3445307",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3503549:1",
-      "target": "10.1145/3491101.3503549"
+      "source": "10.1145/3411764.3445307",
+      "target": "10.1145/3411764.3445307:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3503549:2",
-      "target": "10.1145/3491101.3503549"
+      "source": "10.1145/3411764.3445307",
+      "target": "10.1145/3411764.3445307:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584087:0",
-      "target": "10.1145/3581641.3584087"
+      "source": "10.1145/3411764.3445307",
+      "target": "10.1145/3411764.3445307:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584087:1",
-      "target": "10.1145/3581641.3584087"
+      "source": "10.1145/3411764.3445307",
+      "target": "10.1145/3411764.3445307:3"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3491101.3503549",
+      "target": "10.1145/3313831.3376301"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584087:2",
-      "target": "10.1145/3581641.3584087"
+      "source": "10.1145/3491101.3503549",
+      "target": "10.1145/3491101.3503549:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3581641.3584087:3",
-      "target": "10.1145/3581641.3584087"
+      "source": "10.1145/3491101.3503549",
+      "target": "10.1145/3491101.3503549:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3544548.3581564:0",
-      "target": "10.1145/3544548.3581564"
+      "source": "10.1145/3491101.3503549",
+      "target": "10.1145/3491101.3503549:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3544548.3581564:1",
-      "target": "10.1145/3544548.3581564"
+      "source": "10.1145/3581641.3584087",
+      "target": "10.1145/3581641.3584087:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3544548.3581564:2",
-      "target": "10.1145/3544548.3581564"
+      "source": "10.1145/3581641.3584087",
+      "target": "10.1145/3581641.3584087:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3534678.3539367:0",
-      "target": "10.1145/3534678.3539367"
+      "source": "10.1145/3581641.3584087",
+      "target": "10.1145/3581641.3584087:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3534678.3539367:1",
-      "target": "10.1145/3534678.3539367"
+      "source": "10.1145/3581641.3584087",
+      "target": "10.1145/3581641.3584087:3"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3534678.3539367:2",
-      "target": "10.1145/3534678.3539367"
+      "source": "10.1145/3544548.3581564",
+      "target": "10.1145/3544548.3581564:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650892:0",
-      "target": "10.1145/3613905.3650892"
+      "source": "10.1145/3544548.3581564",
+      "target": "10.1145/3544548.3581564:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650892:1",
-      "target": "10.1145/3613905.3650892"
+      "source": "10.1145/3544548.3581564",
+      "target": "10.1145/3544548.3581564:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650892:2",
-      "target": "10.1145/3613905.3650892"
+      "source": "10.1145/3534678.3539367",
+      "target": "10.1145/3534678.3539367:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640544.3645227:0",
-      "target": "10.1145/3640544.3645227"
+      "source": "10.1145/3534678.3539367",
+      "target": "10.1145/3534678.3539367:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640544.3645227:1",
-      "target": "10.1145/3640544.3645227"
+      "source": "10.1145/3534678.3539367",
+      "target": "10.1145/3534678.3539367:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3529190.3534779:0",
-      "target": "10.1145/3529190.3534779"
+      "source": "10.1145/3613905.3650892",
+      "target": "10.1145/3613905.3650892:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3529190.3534779:1",
-      "target": "10.1145/3529190.3534779"
+      "source": "10.1145/3613905.3650892",
+      "target": "10.1145/3613905.3650892:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3529190.3534779:2",
-      "target": "10.1145/3529190.3534779"
+      "source": "10.1145/3613905.3650892",
+      "target": "10.1145/3613905.3650892:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3516409:0",
-      "target": "10.1145/3491101.3516409"
+      "source": "10.1145/3640544.3645227",
+      "target": "10.1145/3640544.3645227:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3516409:1",
-      "target": "10.1145/3491101.3516409"
+      "source": "10.1145/3640544.3645227",
+      "target": "10.1145/3640544.3645227:1"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3529190.3534779",
+      "target": "10.1145/3486941"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3529190.3534779",
+      "target": "10.1145/3313831.3376301"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3529190.3534779",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491101.3516409:2",
-      "target": "10.1145/3491101.3516409"
+      "source": "10.1145/3529190.3534779",
+      "target": "10.1145/3529190.3534779:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3664219:0",
-      "target": "10.1145/3664219"
+      "source": "10.1145/3529190.3534779",
+      "target": "10.1145/3529190.3534779:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3664219:1",
-      "target": "10.1145/3664219"
+      "source": "10.1145/3529190.3534779",
+      "target": "10.1145/3529190.3534779:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3491101.3516409",
+      "target": "10.1145/3486941"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3491101.3516409",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3664219:2",
-      "target": "10.1145/3664219"
+      "source": "10.1145/3491101.3516409",
+      "target": "10.1145/3491101.3516409:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3664219:3",
-      "target": "10.1145/3664219"
+      "source": "10.1145/3491101.3516409",
+      "target": "10.1145/3491101.3516409:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3572921.3572942:0",
-      "target": "10.1145/3572921.3572942"
+      "source": "10.1145/3491101.3516409",
+      "target": "10.1145/3491101.3516409:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3572921.3572942:1",
-      "target": "10.1145/3572921.3572942"
+      "source": "10.1145/3664219",
+      "target": "10.1145/3664219:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3572921.3572942:2",
-      "target": "10.1145/3572921.3572942"
+      "source": "10.1145/3664219",
+      "target": "10.1145/3664219:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3661614:0",
-      "target": "10.1145/3643834.3661614"
+      "source": "10.1145/3664219",
+      "target": "10.1145/3664219:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3661614:1",
-      "target": "10.1145/3643834.3661614"
+      "source": "10.1145/3664219",
+      "target": "10.1145/3664219:3"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3572921.3572942",
+      "target": "10.1145/3486941"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3572921.3572942",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3661614:2",
-      "target": "10.1145/3643834.3661614"
+      "source": "10.1145/3572921.3572942",
+      "target": "10.1145/3572921.3572942:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3517565:0",
-      "target": "10.1145/3491102.3517565"
+      "source": "10.1145/3572921.3572942",
+      "target": "10.1145/3572921.3572942:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3517565:1",
-      "target": "10.1145/3491102.3517565"
+      "source": "10.1145/3572921.3572942",
+      "target": "10.1145/3572921.3572942:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3491102.3517565:2",
-      "target": "10.1145/3491102.3517565"
+      "source": "10.1145/3643834.3661614",
+      "target": "10.1145/3643834.3661614:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3623809.3623962:0",
-      "target": "10.1145/3623809.3623962"
+      "source": "10.1145/3643834.3661614",
+      "target": "10.1145/3643834.3661614:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3643834.3661614",
+      "target": "10.1145/3643834.3661614:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3517565",
+      "target": "10.1145/3491102.3517565:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3517565",
+      "target": "10.1145/3491102.3517565:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3491102.3517565",
+      "target": "10.1145/3491102.3517565:2"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3623809.3623962",
+      "target": "10.1145/3623809.3623962:0"
     },
     {
       "relation": "similarity",
@@ -8353,11 +8519,6 @@
       "target": "10.1145/3411764.3445290:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3661576:0",
-      "target": "10.1145/3643834.3661576"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the positive impacts and capabilities of AI, though they focus on different aspects: one on enhancing a child's abilities and the other on user engagement in AI design. They share a common theme of improvement through AI.",
       "polarity": "positive",
@@ -8382,14 +8543,24 @@
       "target": "10.1145/3411764.3445290:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3643834.3661576:1",
-      "target": "10.1145/3643834.3661576"
+      "kind": "paper",
+      "source": "10.1145/3643834.3661576",
+      "target": "10.1145/3411764.3445290"
     },
     {
       "kind": "paper",
       "source": "10.1145/3643834.3661576",
-      "target": "10.1145/3411764.3445290"
+      "target": "10.1145/3313831.3376301"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3643834.3661576",
+      "target": "10.1145/3643834.3661576:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3643834.3661576",
+      "target": "10.1145/3643834.3661576:1"
     },
     {
       "relation": "instantiation",
@@ -8416,11 +8587,6 @@
       "target": "10.1145/3613905.3650956:2"
     },
     {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642699:0",
-      "target": "10.1145/3613904.3642699"
-    },
-    {
       "relation": "similarity",
       "explanation": "Both statements discuss the positive effects of Grammar-Preserving Text Saliency Modulation (GP-TSM) on reading efficiency and user experience, highlighting its advantages over traditional methods. However, they do not directly expand or narrow the scope of each other.",
       "polarity": "positive",
@@ -8443,11 +8609,6 @@
       "kind": "finding",
       "source": "10.1145/3613904.3642699:1",
       "target": "10.1145/3613905.3650956:2"
-    },
-    {
-      "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642699:1",
-      "target": "10.1145/3613904.3642699"
     },
     {
       "relation": "instantiation",
@@ -8474,209 +8635,264 @@
       "target": "10.1145/3613905.3650956:2"
     },
     {
+      "kind": "paper",
+      "source": "10.1145/3613904.3642699",
+      "target": "10.1145/3290605.3300233"
+    },
+    {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3642699:2",
-      "target": "10.1145/3613904.3642699"
+      "source": "10.1145/3613904.3642699",
+      "target": "10.1145/3613904.3642699:0"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642699",
+      "target": "10.1145/3613904.3642699:1"
+    },
+    {
+      "kind": "paper_to_finding",
+      "source": "10.1145/3613904.3642699",
+      "target": "10.1145/3613904.3642699:2"
     },
     {
       "kind": "paper",
-      "source": "10.1145/3613904.3642699",
-      "target": "10.1145/3613905.3650956"
+      "source": "10.1145/3613904.3641904",
+      "target": "10.1145/3491102.3517582"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3641904:0",
-      "target": "10.1145/3613904.3641904"
+      "source": "10.1145/3613904.3641904",
+      "target": "10.1145/3613904.3641904:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3641904:1",
-      "target": "10.1145/3613904.3641904"
+      "source": "10.1145/3613904.3641904",
+      "target": "10.1145/3613904.3641904:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613904.3641904:2",
-      "target": "10.1145/3613904.3641904"
+      "source": "10.1145/3613904.3641904",
+      "target": "10.1145/3613904.3641904:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3613905.3638195",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3638195:0",
-      "target": "10.1145/3613905.3638195"
+      "source": "10.1145/3613905.3638195",
+      "target": "10.1145/3613905.3638195:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3638195:1",
-      "target": "10.1145/3613905.3638195"
+      "source": "10.1145/3613905.3638195",
+      "target": "10.1145/3613905.3638195:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3638195:2",
-      "target": "10.1145/3613905.3638195"
+      "source": "10.1145/3613905.3638195",
+      "target": "10.1145/3613905.3638195:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3640543.3645164",
+      "target": "10.1145/3491102.3517582"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3640543.3645164",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640543.3645164:0",
-      "target": "10.1145/3640543.3645164"
+      "source": "10.1145/3640543.3645164",
+      "target": "10.1145/3640543.3645164:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640543.3645164:1",
-      "target": "10.1145/3640543.3645164"
+      "source": "10.1145/3640543.3645164",
+      "target": "10.1145/3640543.3645164:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3640543.3645164:2",
-      "target": "10.1145/3640543.3645164"
+      "source": "10.1145/3640543.3645164",
+      "target": "10.1145/3640543.3645164:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3580812",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3580812:0",
-      "target": "10.1145/3580812"
+      "source": "10.1145/3580812",
+      "target": "10.1145/3580812:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3580812:1",
-      "target": "10.1145/3580812"
+      "source": "10.1145/3580812",
+      "target": "10.1145/3580812:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3617431:0",
-      "target": "10.1145/3586182.3617431"
+      "source": "10.1145/3586182.3617431",
+      "target": "10.1145/3586182.3617431:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3617431:1",
-      "target": "10.1145/3586182.3617431"
+      "source": "10.1145/3586182.3617431",
+      "target": "10.1145/3586182.3617431:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3617431:2",
-      "target": "10.1145/3586182.3617431"
+      "source": "10.1145/3586182.3617431",
+      "target": "10.1145/3586182.3617431:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650814:0",
-      "target": "10.1145/3613905.3650814"
+      "source": "10.1145/3613905.3650814",
+      "target": "10.1145/3613905.3650814:0"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3411764.3445290",
+      "target": "10.1145/3313831.3376301"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3411764.3445290",
+      "target": "10.1145/3290605.3300233"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445290:0",
-      "target": "10.1145/3411764.3445290"
+      "source": "10.1145/3411764.3445290",
+      "target": "10.1145/3411764.3445290:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445290:1",
-      "target": "10.1145/3411764.3445290"
+      "source": "10.1145/3411764.3445290",
+      "target": "10.1145/3411764.3445290:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3411764.3445290:2",
-      "target": "10.1145/3411764.3445290"
+      "source": "10.1145/3411764.3445290",
+      "target": "10.1145/3411764.3445290:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3613905.3650956",
+      "target": "10.1145/3613904.3642699"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650956:0",
-      "target": "10.1145/3613905.3650956"
+      "source": "10.1145/3613905.3650956",
+      "target": "10.1145/3613905.3650956:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650956:1",
-      "target": "10.1145/3613905.3650956"
+      "source": "10.1145/3613905.3650956",
+      "target": "10.1145/3613905.3650956:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3613905.3650956:2",
-      "target": "10.1145/3613905.3650956"
+      "source": "10.1145/3613905.3650956",
+      "target": "10.1145/3613905.3650956:2"
+    },
+    {
+      "kind": "paper",
+      "source": "10.1145/3637396",
+      "target": "10.1145/3313831.3376301"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3637396:0",
-      "target": "10.1145/3637396"
+      "source": "10.1145/3637396",
+      "target": "10.1145/3637396:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3637396:1",
-      "target": "10.1145/3637396"
+      "source": "10.1145/3637396",
+      "target": "10.1145/3637396:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3637396:2",
-      "target": "10.1145/3637396"
+      "source": "10.1145/3637396",
+      "target": "10.1145/3637396:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3637396:3",
-      "target": "10.1145/3637396"
+      "source": "10.1145/3637396",
+      "target": "10.1145/3637396:3"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3625115:0",
-      "target": "10.1145/3586182.3625115"
+      "source": "10.1145/3586182.3625115",
+      "target": "10.1145/3586182.3625115:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3625115:1",
-      "target": "10.1145/3586182.3625115"
+      "source": "10.1145/3586182.3625115",
+      "target": "10.1145/3586182.3625115:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3625115:2",
-      "target": "10.1145/3586182.3625115"
+      "source": "10.1145/3586182.3625115",
+      "target": "10.1145/3586182.3625115:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3625115:3",
-      "target": "10.1145/3586182.3625115"
+      "source": "10.1145/3586182.3625115",
+      "target": "10.1145/3586182.3625115:3"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3586182.3625115:4",
-      "target": "10.1145/3586182.3625115"
+      "source": "10.1145/3586182.3625115",
+      "target": "10.1145/3586182.3625115:4"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3576915.3616599:0",
-      "target": "10.1145/3576915.3616599"
+      "source": "10.1145/3576915.3616599",
+      "target": "10.1145/3576915.3616599:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3576915.3616599:1",
-      "target": "10.1145/3576915.3616599"
+      "source": "10.1145/3576915.3616599",
+      "target": "10.1145/3576915.3616599:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3653708:0",
-      "target": "10.1145/3653708"
+      "source": "10.1145/3653708",
+      "target": "10.1145/3653708:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3653708:1",
-      "target": "10.1145/3653708"
+      "source": "10.1145/3653708",
+      "target": "10.1145/3653708:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3653708:2",
-      "target": "10.1145/3653708"
+      "source": "10.1145/3653708",
+      "target": "10.1145/3653708:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3610978.3640750:0",
-      "target": "10.1145/3610978.3640750"
+      "source": "10.1145/3610978.3640750",
+      "target": "10.1145/3610978.3640750:0"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3610978.3640750:1",
-      "target": "10.1145/3610978.3640750"
+      "source": "10.1145/3610978.3640750",
+      "target": "10.1145/3610978.3640750:1"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3610978.3640750:2",
-      "target": "10.1145/3610978.3640750"
+      "source": "10.1145/3610978.3640750",
+      "target": "10.1145/3610978.3640750:2"
     },
     {
       "kind": "paper_to_finding",
-      "source": "10.1145/3610978.3640750:3",
-      "target": "10.1145/3610978.3640750"
+      "source": "10.1145/3610978.3640750",
+      "target": "10.1145/3610978.3640750:3"
     }
   ]
 }
