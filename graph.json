@@ -1,0 +1,296 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Theory of Mind in Human-AI Interaction",
+      "id": "10.1145/3613905.3636308"
+    },
+    {
+      "name": "Assessing Human-AI Interaction Early through Factorial Surveys: A Study on the Guidelines for Human-AI Interaction",
+      "id": "10.1145/3511605"
+    },
+    {
+      "name": "Spiritual AI: Exploring the Possibilities of a Human-AI Interaction Beyond Productive Goals",
+      "id": "10.1145/3613905.3650743"
+    },
+    {
+      "name": "Development and translation of human-AI interaction models into working prototypes for clinical decision-making",
+      "id": "10.1145/3643834.3660697"
+    },
+    {
+      "name": "Exploration of Explainable AI for Trust Development on Human-AI Interaction",
+      "id": "10.1145/3639592.3639625"
+    },
+    {
+      "name": "Re-examining User Burden in Human-AI Interaction: Focusing on a Domain-Specific Approach",
+      "id": "10.1145/3613905.3638186"
+    },
+    {
+      "name": "A Systematic Review on Fostering Appropriate Trust in Human-AI Interaction: Trends, Opportunities and Challenges",
+      "id": "10.1145/3696449"
+    },
+    {
+      "name": "Measuring User Experience Inclusivity in Human-AI Interaction via Five User Problem-Solving Styles",
+      "id": "10.1145/3663740"
+    },
+    {
+      "name": "Human-AI interaction: intermittent, continuous, and proactive",
+      "id": "10.1145/3486941"
+    },
+    {
+      "name": "Designing for Human-AI Interaction: Comparing Intermittent, Continuous, and Proactive Interactions for a Music Application",
+      "id": "10.1145/3613905.3650886"
+    },
+    {
+      "name": "\"Help Me Help the AI\": Understanding How Explainability Can Support Human-AI Interaction",
+      "id": "10.1145/3544548.3581001"
+    },
+    {
+      "name": "Evaluating Interactive AI: Understanding and Controlling Placebo Effects in Human-AI Interaction",
+      "id": "10.1145/3613905.3636304"
+    },
+    {
+      "name": "AI in Your Mind: Counterbalancing Perceived Agency and Experience in Human-AI Interaction",
+      "id": "10.1145/3491101.3519833"
+    },
+    {
+      "name": "Guidelines for Human-AI Interaction",
+      "id": "10.1145/3290605.3300233"
+    },
+    {
+      "name": "AI as a Child of Mother Earth: Regrounding Human-AI Interaction in Ecological Thinking",
+      "id": "10.1145/3613905.3644065"
+    },
+    {
+      "name": "Playing with Dezgo: Adapting Human-AI Interaction to the Context of Play",
+      "id": "10.1145/3582437.3587198"
+    },
+    {
+      "name": "Interfaces for Explanations in Human-AI Interaction: Proposing a Design Evaluation Approach",
+      "id": "10.1145/3411763.3451759"
+    },
+    {
+      "name": "Trust in Human-AI Interaction: Scoping Out Models, Measures, and Methods",
+      "id": "10.1145/3491101.3519772"
+    },
+    {
+      "name": "Societal-Scale Human-AI Interaction Design? How Hospitals and Companies are Integrating Pervasive Sensing into Mental Healthcare",
+      "id": "10.1145/3613904.3642793"
+    },
+    {
+      "name": "AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts",
+      "id": "10.1145/3491102.3517582"
+    },
+    {
+      "name": "Benefits of Human-AI Interaction for Expert Users Interacting with Prediction Models: a Study on Marathon Running",
+      "id": "10.1145/3640543.3645205"
+    },
+    {
+      "name": "Effects of Communication Directionality and AI Agent Differences in Human-AI Interaction",
+      "id": "10.1145/3411764.3445256"
+    },
+    {
+      "name": "UX Research on Conversational Human-AI Interaction: A Literature Review of the ACM Digital Library",
+      "id": "10.1145/3491102.3501855"
+    },
+    {
+      "name": "Human-AI interaction and ethics of AI: how well are we following the guidelines",
+      "id": "10.1145/3565698.3565773"
+    },
+    {
+      "name": "Forward Reasoning Decision Support: Toward a More Complete View of the Human-AI Interaction Design Space",
+      "id": "10.1145/3464385.3464696"
+    },
+    {
+      "name": "Understanding User Perceptions, Collaborative Experience and User Engagement in Different Human-AI Interaction Designs for Co-Creative Systems",
+      "id": "10.1145/3527927.3532789"
+    },
+    {
+      "name": "Towards Mutual Theory of Mind in Human-AI Interaction: How Language Reflects What Students Perceive About a Virtual Teaching Assistant",
+      "id": "10.1145/3411764.3445645"
+    },
+    {
+      "name": "Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design",
+      "id": "10.1145/3313831.3376301"
+    },
+    {
+      "name": "The Human in the Infinite Loop: A Case Study on Revealing and Explaining Human-AI Interaction Loop Failures",
+      "id": "10.1145/3543758.3543761"
+    },
+    {
+      "name": "Towards fluid software architectures: bidirectional human-AI interaction",
+      "id": "10.1109/ASE51524.2021.9678647"
+    },
+    {
+      "name": "How Should AI Systems Talk to Users when Collecting their Personal Information? Effects of Role Framing and Self-Referencing on Human-AI Interaction",
+      "id": "10.1145/3411764.3445415"
+    },
+    {
+      "name": "Human-AI Interaction in Human Resource Management: Understanding Why Employees Resist Algorithmic Evaluation at Workplaces and How to Mitigate Burdens",
+      "id": "10.1145/3411764.3445304"
+    },
+    {
+      "name": "Learning Action Conditions for Automatic Behavior Tree Generation from Human Demonstrations",
+      "id": "10.1145/3610978.3640673"
+    },
+    {
+      "name": "Designing AI with Metaphors: Leveraging Ambiguity and Defamiliarization to Support Design Creativity",
+      "id": "10.1145/3635636.3664250"
+    },
+    {
+      "name": "My Voice as a Daily Reminder: Self-Voice Alarm for Daily Goal Achievement",
+      "id": "10.1145/3613904.3641932"
+    },
+    {
+      "name": "An Evaluation of Situational Autonomy for Human-AI Collaboration in a Shared Workspace Setting",
+      "id": "10.1145/3613904.3642564"
+    },
+    {
+      "name": "Evaluation Tools for Human-AI Interactions Involving Older Adults with Mild Cognitive Impairments",
+      "id": "10.1145/3610977.3637474"
+    },
+    {
+      "name": "Understanding the Dynamics in Creating Domain-Specific AI Design Guidelines: A Case Study of a Leading Digital Finance Company in South Korea",
+      "id": "10.1145/3613905.3650759"
+    },
+    {
+      "name": "The Metacognitive Demands and Opportunities of Generative AI",
+      "id": "10.1145/3613904.3642902"
+    },
+    {
+      "name": "Capturing Humans\u2019 Mental Models of AI: An Item Response Theory Approach",
+      "id": "10.1145/3593013.3594111"
+    },
+    {
+      "name": "HINT: Integration Testing for AI-based features with Humans in the Loop",
+      "id": "10.1145/3490099.3511141"
+    },
+    {
+      "name": "Understanding Students\u2019 Perspectives, Practices, and Challenges of Designing with AI in Special Schools",
+      "id": "10.1145/3629606.3629625"
+    },
+    {
+      "name": "It Seems Smart, but It Acts Stupid: Development of Trust in AI Advice in a Repeated Legal Decision-Making Task",
+      "id": "10.1145/3581641.3584058"
+    },
+    {
+      "name": "Player-AI Interaction: What Neural Network Games Reveal About AI as Play",
+      "id": "10.1145/3411764.3445307"
+    },
+    {
+      "name": "Too Late to be Creative? AI-Empowered Tools in Creative Processes",
+      "id": "10.1145/3491101.3503549"
+    },
+    {
+      "name": "AlphaDAPR: An AI-based Explainable Expert Support System for Art Therapy",
+      "id": "10.1145/3581641.3584087"
+    },
+    {
+      "name": "Work with AI and Work for AI: Autonomous Vehicle Safety Drivers\u2019 Lived Experiences",
+      "id": "10.1145/3544548.3581564"
+    },
+    {
+      "name": "Learning Models of Individual Behavior in Chess",
+      "id": "10.1145/3534678.3539367"
+    },
+    {
+      "name": "Exploring the Impact of AI Value Alignment in Collaborative Ideation: Effects on Perception, Ownership, and Output",
+      "id": "10.1145/3613905.3650892"
+    },
+    {
+      "name": "Exploring AI-assisted Ideation and Prototyping for Choreography",
+      "id": "10.1145/3640544.3645227"
+    },
+    {
+      "name": "Using human-in-the-loop and explainable AI to envisage new future work practices",
+      "id": "10.1145/3529190.3534779"
+    },
+    {
+      "name": "Designing for Continuous Interaction with Artificial Intelligence Systems",
+      "id": "10.1145/3491101.3516409"
+    },
+    {
+      "name": "Ephemera: Language as a Virus - AI-driven Interactive and Immersive Art Installation",
+      "id": "10.1145/3664219"
+    },
+    {
+      "name": "Making AI Understandable by Making it Tangible: Exploring the Design Space with Ten Concept Cards",
+      "id": "10.1145/3572921.3572942"
+    },
+    {
+      "name": "Studying Self-Care with Generative AI Tools: Lessons for Design",
+      "id": "10.1145/3643834.3661614"
+    },
+    {
+      "name": "Owning Mistakes Sincerely: Strategies for Mitigating AI Errors",
+      "id": "10.1145/3491102.3517565"
+    },
+    {
+      "name": "Externalizing Vulnerability and Verbalizing Thoughts to More Adequately Evaluate Trust in AI",
+      "id": "10.1145/3623809.3623962"
+    },
+    {
+      "name": "The AI-DEC: A Card-based Design Method for User-centered AI Explanations",
+      "id": "10.1145/3643834.3661576"
+    },
+    {
+      "name": "An AI-Resilient Text Rendering Technique for Reading and Skimming Documents",
+      "id": "10.1145/3613904.3642699"
+    },
+    {
+      "name": "RELIC: Investigating Large Language Model Responses using Self-Consistency",
+      "id": "10.1145/3613904.3641904"
+    },
+    {
+      "name": "Design, Development, and Deployment of Context-Adaptive AI Systems for Enhanced User Adoption",
+      "id": "10.1145/3613905.3638195"
+    },
+    {
+      "name": "ExpressEdit: Video Editing with Natural Language and Sketching",
+      "id": "10.1145/3640543.3645164"
+    },
+    {
+      "name": "AI-to-Human Actuation: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions",
+      "id": "10.1145/3580812"
+    },
+    {
+      "name": "Architecting Novel Interactions with Generative AI Models",
+      "id": "10.1145/3586182.3617431"
+    },
+    {
+      "name": "Situated Analytics Process and Mantra",
+      "id": "10.1145/3613905.3650814"
+    },
+    {
+      "name": "Social Sensemaking with AI: Designing an Open-ended AI Experience with a Blind Child",
+      "id": "10.1145/3411764.3445290"
+    },
+    {
+      "name": "Why Do Skimmers Perform Better with Grammar-Preserving Text Saliency Modulation (GP-TSM)? Evidence from an Eye Tracking Study",
+      "id": "10.1145/3613905.3650956"
+    },
+    {
+      "name": "Seamful XAI: Operationalizing Seamful Design in Explainable AI",
+      "id": "10.1145/3637396"
+    },
+    {
+      "name": "ProactiveAgent: Personalized Context-Aware Reminder System",
+      "id": "10.1145/3586182.3625115"
+    },
+    {
+      "name": "FINER: Enhancing State-of-the-art Classifiers with Feature Attribution to Facilitate Security Analysis",
+      "id": "10.1145/3576915.3616599"
+    },
+    {
+      "name": "Does More Advice Help? The Effects of Second Opinions in AI-Assisted Decision Making",
+      "id": "10.1145/3653708"
+    },
+    {
+      "name": "VR-based Assistance System for Semi-Autonomous Robotic Boats",
+      "id": "10.1145/3610978.3640750"
+    }
+  ],
+  "edges": []
+}
