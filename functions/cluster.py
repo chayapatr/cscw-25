@@ -75,9 +75,9 @@ def print_cluster_representatives(embeddings_array, words, clusters, optimal_k):
     
     return representatives
 
-def cluster_and_visualize(keyword_embeddings):
-    embeddings_array = np.array(list(keyword_embeddings.values()))
-    words = list(keyword_embeddings.keys())
+def cluster_and_visualize(df):
+    embeddings_array = np.array(df['embedding'].apply(lambda x: x[0]).to_list())
+    words = df['key'].to_list()
 
     optimal_k = find_optimal_clusters(embeddings_array)
     clusters = perform_clustering(embeddings_array, optimal_k)
