@@ -50,42 +50,70 @@ DO NOT include:
 
 triplets = """# Convert research statements about human-AI interaction into structured relationships
 
+IMPORTANT: Only process findings that describe DIRECT INTERACTIONS between entities. If a finding does not describe a direct interaction, return {"skip": true}.
+
+Direct interactions include:
+- AI systems affecting human behavior/performance/perception
+- Human actions affecting AI system behavior/performance  
+- Human-AI collaborative processes affecting outcomes
+- AI features influencing human-AI relationship dynamics
+
+Do NOT process findings that only describe:
+- System performance metrics without human interaction (e.g., "HAIFAI achieved 60.6% identification rate")
+- Survey results or statistical observations without interaction (e.g., "65% of papers identify positive impacts")
+- Comparative studies without interaction dynamics (e.g., "Method A outperformed Method B")
+- Design guidelines or frameworks without interaction evidence
+
+Examples of findings to SKIP:
+- "HAIFAI achieved a 60.6% identification rate" → {"skip": true}
+- "65% of research papers identify positive impacts" → {"skip": true}
+- "Most studies lack methodological details" → {"skip": true}
+
+Examples of findings to PROCESS:
+- "Primary school participants with higher trust in 2D AI teachers engaged in more dimensional interactions" → Process (shows trust affecting interaction)
+- "XAI facilitates trust formation through affective information processing" → Process (shows AI feature affecting human response)
+- "Users developed new interaction methods through Chains" → Process (shows AI system enabling human behavior change)
+
 Convert research statements into structured triplets using the format:
-[cause, relationship, effect] where cause and effect are structured Subject objects.
+[cause, relationship, effect, net_outcome] where cause and effect are structured Subject objects.
 
 ## Subject Structure
 Each Subject has three components:
 - *type*: One of only "human", "ai", or "co" (concepts/objects)
 - *subtype*: Broad taxonomical category (e.g., "student", "generative")
-  - Should be included whenever possible (only omit for very general concepts)
-  - Keep subtypes broad enough to be reusable across multiple instances
-  - Avoid overly specific subtypes that can't serve as taxonomical categories
-  - Use general model types (e.g., "llm", "transformer") not project-specific names
-  - Exception: Widely-known models may use their common names (e.g., "chatgpt", "google")
+ - Should be included whenever possible (only omit for very general concepts)
+ - Keep subtypes broad enough to be reusable across multiple instances
+ - Avoid overly specific subtypes that can't serve as taxonomical categories
+ - Use general model types (e.g., "llm", "transformer") not project-specific names
+ - Exception: Widely-known models may use their common names (e.g., "chatgpt", "google")
+- *feature*: Specific attribute or property being affected
 
 ### Subject Categories
 Human: Individual actors (e.g., human with subtype "student" or "clinician")
 AI: AI systems/components (e.g., ai with subtype "generative" or "chatbot")
 CO: Concepts/Objects (e.g., co with subtype "project", "justice", or "interaction")
 
-
-### Feature Guidelines
+### feature Guidelines
 One word when possible
 Specific over general terms
 Use "#" prefix for perception features (e.g., "#trust")
 Use colon for nested features (e.g., "creativity:writing")
 
-
 ## Relationship Types
 INCREASES/DECREASES
+  - For direct impact on measurable attributes
+  - Example: AI assistance INCREASES human productivity
 
-   - For direct impact on measurable attributes
-   - Example: AI assistance INCREASES human productivity
+INFLUENCES
+  - For complex/indirect effects on behavior/perception
+  - Example: AI embodiment INFLUENCES human trust perception
 
-INFLUENCES 
-
-   - For complex/indirect effects on behavior/perception
-   - Example: AI embodiment INFLUENCES human trust perception
+## Net Outcome for Human
+Evaluate the overall impact on human wellbeing, capability, or experience:
+- **positive**: Benefits humans (improved learning, increased productivity, enhanced creativity)
+- **negative**: Harms humans (decreased skills, increased dependency, reduced autonomy)
+- **neutral**: No clear positive or negative impact
+- **undetermined**: Insufficient information or mixed effects
 
 ## Examples
 
@@ -93,118 +121,142 @@ Input: "Interactive Machine Learning interfaces enhance artists' creativity in w
 
 Output:
 {
-  "cause": {
-    "type": "ai",
-    "subtype": "interactive",
-    "feature": "interface"
-  },
-  "relationship": "INCREASES",
-  "effect": {
-    "type": "human",
-    "subtype": "artist",
-    "feature": "creativity:writing"
-  }
+ "cause": {
+   "type": "ai",
+   "subtype": "interactive",
+   "feature": "interface"
+ },
+ "relationship": "INCREASES",
+ "effect": {
+   "type": "human",
+   "subtype": "artist",
+   "feature": "creativity:writing"
+ },
+ "net_outcome": "positive"
 }
 
 Input: "Engagement mechanisms improve users' positive perceptions of the robot"
 
 Output:
 {
-  "cause": {
-    "type": "ai",
-    "subtype": "",
-    "feature": "engagement"
-  },
-  "relationship": "INCREASES",
-  "effect": {
-    "type": "human",
-    "subtype": "",
-    "feature": "#robot"
-  }
+ "cause": {
+   "type": "ai",
+   "subtype": "",
+   "feature": "engagement"
+ },
+ "relationship": "INCREASES",
+ "effect": {
+   "type": "human",
+   "subtype": "",
+   "feature": "#robot"
+ },
+ "net_outcome": "positive"
 }
 
 Input: "LLM-based tutoring systems significantly improve learning outcomes for medical students"
 
 Output:
 {
-  "cause": {
-    "type": "ai",
-    "subtype": "llm",
-    "feature": "tutoring"
-  },
-  "relationship": "INCREASES",
-  "effect": {
-    "type": "human",
-    "subtype": "student:medical",
-    "feature": "learning"
-  }
+ "cause": {
+   "type": "ai",
+   "subtype": "llm",
+   "feature": "tutoring"
+ },
+ "relationship": "INCREASES",
+ "effect": {
+   "type": "human",
+   "subtype": "student:medical",
+   "feature": "learning"
+ },
+ "net_outcome": "positive"
 }
 
 Input: "ChatGPT's explanation capability reduces the frequency of user misconceptions about complex topics"
 
 Output:
 {
-  "cause": {
-    "type": "ai",
-    "subtype": "chatgpt",
-    "feature": "explanation"
-  },
-  "relationship": "DECREASES",
-  "effect": {
-    "type": "human",
-    "subtype": "user",
-    "feature": "misconception:complex"
-  }
+ "cause": {
+   "type": "ai",
+   "subtype": "chatgpt",
+   "feature": "explanation"
+ },
+ "relationship": "DECREASES",
+ "effect": {
+   "type": "human",
+   "subtype": "user",
+   "feature": "misconception:complex"
+ },
+ "net_outcome": "positive"
 }
 
 Input: "Collaborative projects between domain experts and generative AI tools lead to more novel solutions"
 
 Output:
 {
-  "cause": {
-    "type": "co",
-    "subtype": "collaboration",
-    "feature": "expert:ai"
-  },
-  "relationship": "INCREASES",
-  "effect": {
-    "type": "co",
-    "subtype": "solution",
-    "feature": "novelty"
-  }
+ "cause": {
+   "type": "co",
+   "subtype": "collaboration",
+   "feature": "expert:ai"
+ },
+ "relationship": "INCREASES",
+ "effect": {
+   "type": "co",
+   "subtype": "solution",
+   "feature": "novelty"
+ },
+ "net_outcome": "positive"
+}
+
+Input: "Over-reliance on AI assistance reduces students' problem-solving skills"
+
+Output:
+{
+ "cause": {
+   "type": "ai",
+   "subtype": "",
+   "feature": "assistance"
+ },
+ "relationship": "DECREASES",
+ "effect": {
+   "type": "human",
+   "subtype": "student",
+   "feature": "problem-solving"
+ },
+ "net_outcome": "negative"
 }
 
 ## Rules
 Focus on primary causal relationship
 Use specific terms over general ones
-
-   - ❌ "system features" -> ✅ "explanation interface"
+  - ❌ "system features" -> ✅ "explanation interface"
 Standardize subjects
-
-   - No redundant terms (e.g., "generative AI" -> type="ai", subtype="generative")
-   - Always use lowercase for all fields
-   - Prefer using both type AND subtype when possible (only omit subtype for very generalized concepts)
-   - Keep subtypes broad and taxonomical rather than overly specific
+  - No redundant terms (e.g., "generative AI" -> type="ai", subtype="generative")
+  - Always use lowercase for all fields
+  - Prefer using both type AND subtype when possible (only omit subtype for very generalized concepts)
+  - Keep subtypes broad and taxonomical rather than overly specific
 Remove numerical metrics
+  - ❌ "AI performance by 27%" -> ✅ feature="performance"
 
-   - ❌ "AI performance by 27%" -> ✅ feature="performance"
-
-## Feature Special Cases
+## feature Special Cases
 Perception (#)
-
-   - Use # prefix for beliefs/perspectives/ideas
-   - Example: "perception of trust" -> "#trust"
-Nested Features
-
-   - Use colon 🙂) for nested features
-   - Use fewest levels possible
-   - Example: "reliance on AI" -> "reliance:ai", "misconception about AI" -> "misconception:ai"
+  - Use # prefix for beliefs/perspectives/ideas
+  - Example: "perception of trust" -> "#trust"
+Nested features
+  - Use colon (:) for nested features
+  - Use fewest levels possible
+  - Example: "reliance on AI" -> "reliance:ai", "misconception about AI" -> "misconception:ai"
 
 ## Type and Subtype Rules
 For Subject.type, ONLY use "human", "ai", or "co"
 Empty string ("") for subtype is valid when no specific subtype applies
 Always parse nested subjects correctly:
+  - "human:student" → type="human", subtype="student"
+  - "ai:generative" → type="ai", subtype="generative"
 
-   - "human:student" → type="human", subtype="student"
-   - "ai:generative" → type="ai", subtype="generative"
+## Net Outcome Guidelines
+- Consider long-term implications for human development and wellbeing
+- A relationship that reduces something negative (like misconceptions) has a "positive" net outcome
+- A relationship that enhances something positive (like learning) has a "positive" net outcome
+- A relationship that promotes dependency or diminishes autonomy typically has a "negative" net outcome
+- When effects are mixed or context-dependent, use "undetermined"
 """

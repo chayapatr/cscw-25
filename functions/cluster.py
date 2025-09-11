@@ -76,7 +76,24 @@ def print_cluster_representatives(embeddings_array, words, clusters, optimal_k):
     return representatives
 
 def cluster_and_visualize(df):
-    embeddings_array = np.array(df['embedding'].apply(lambda x: x[0]).to_list())
+    import ast
+    
+    # Handle both string representations and actual arrays
+    def parse_embedding(emb):
+        if isinstance(emb, str):
+            # Parse string representation of list
+            return ast.literal_eval(emb)
+        elif isinstance(emb, list) and len(emb) > 0 and isinstance(emb[0], (int, float)):
+            # Already a flat list
+            return emb
+        elif isinstance(emb, list) and len(emb) > 0 and isinstance(emb[0], list):
+            # Nested list, take first element
+            return emb[0]
+        else:
+            # Assume it's already the correct format
+            return emb
+    
+    embeddings_array = np.array(df['embedding'].apply(parse_embedding).to_list())
     words = df['key'].to_list()
 
     optimal_k = find_optimal_clusters(embeddings_array)

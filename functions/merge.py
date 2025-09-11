@@ -3,8 +3,30 @@ from sklearn.cluster import DBSCAN
 import pandas as pd
 
 def prepare_embeddings(embeddings):
+    import ast
     keywords = embeddings['key'].to_list()
-    embeddings = np.array([embeddings.loc[embeddings['key'] == k].iloc[0]['embedding'][0] for k in keywords])
+    # Handle both string representations and actual arrays
+    def parse_embedding(emb):
+        if isinstance(emb, str):
+            # Parse string representation of list
+            return ast.literal_eval(emb)
+        elif isinstance(emb, list) and len(emb) > 0 and isinstance(emb[0], (int, float)):
+            # Already a flat list
+            return emb
+        elif isinstance(emb, list) and len(emb) > 0 and isinstance(emb[0], list):
+            # Nested list, take first element
+            return emb[0]
+        else:
+            # Assume it's already the correct format
+            return emb
+    
+    embeddings_array = []
+    for k in keywords:
+        emb = embeddings.loc[embeddings['key'] == k].iloc[0]['embedding']
+        parsed_emb = parse_embedding(emb)
+        embeddings_array.append(parsed_emb)
+    
+    embeddings = np.array(embeddings_array)
     # print(embeddings)
     return keywords, embeddings
 
